@@ -1,0 +1,125 @@
+{
+  "spider": "https://gitee.com/huasjf/tvbox/raw/main/spiderd127.jar",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+    "lives": [
+        {
+            "name": "tvlive",
+            "type": 0,
+            "url": "http://b.mtw.so/5O3IaS",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        ,
+                     "logo": "https://epg.112114.xyz/logo/{name}.png"
+	    }],
+ 
+  
+  "sites": [
+
+    {
+      "key": "疾风经典",
+      "name": "🎵音乐欣赏",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "jar": "https://gitee.com/huasjf/tvbox/raw/main/spider.jar;md5;F20B74480C058B1FF6236601F92D65A8",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/chuzjie/hsjifeng/main/lib/%E5%90%BE%E7%88%B1%E7%BB%8F%E5%85%B8.json"    },
+        {
+      "key": "相声小品",
+      "name": "✨相声小品✨",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://gitee.com/huasjf/tvbox/raw/master/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/huasjf/tvbox/raw/master/lib/5e6fa3015aad4fa1956ed181cfaf172b.jpg"
+    },
+ 
+       {
+      "key": "戏曲",
+      "name": "✨戏曲✨",
+      "type": 3,
+      "api": "csp_Bili",
+           "jar": "https://gitee.com/huasjf/tvbox/raw/master/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/huasjf/tvbox/raw/master/lib/%E6%88%8F%E6%9B%B2.jpg"
+    }   ,
+    
+	{
+			"key": "csp_Lkdy",
+			
+"name": "💓来看",
+
+  "jar": "https://git.acwing.com/wuhui/huas/-/raw/main/lib/0319.jar",
+  
+  "jar": "https://gitee.com/huasjf/BOX/raw/master/lib/0319.jar",
+  
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742350342316/0319.jar;md5;b73ed98a0a285189794be3c8d9c3a335",
+
+			"type": 3,
+			"api": "csp_LkdyGuard"
+		},
+		
+{
+			"key": "听书",
+			"name": "🎧听书",
+			
+		  "jar": "https://git.acwing.com/wuhui/huas/-/raw/main/lib/0319.jar",
+  
+  "jar": "https://gitee.com/huasjf/BOX/raw/master/lib/0319.jar",
+  
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742350342316/0319.jar;md5;b73ed98a0a285189794be3c8d9c3a335",
+
+			
+			"type": 3,
+			"api": "csp_TingBookGuard",
+			"searchable": 1,
+			"ext":"http://www.6yueting.com"
+		},	
+		
+		
+		
+                 
+    {
+            "key": "金牌",
+            "name": "❤️金牌",
+            "type": 3,
+                   // "jar": "./spiderd127.jar",
+                    
+                    
+
+            "api": "csp_WebJP",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        
+{
+			"key": "csp_AppXY",
+			"name": "🐬短剧",
+			"type": 3,
+			
+	  "jar": "https://git.acwing.com/wuhui/huas/-/raw/main/lib/0319.jar",
+  
+  "jar": "https://gitee.com/huasjf/BOX/raw/master/lib/0319.jar",
+  
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742350342316/0319.jar;md5;b73ed98a0a285189794be3c8d9c3a335",	
+			"api": "csp_AppXYGuard"
+		},
+        
+        {
+      "key": "戏曲2",
+      "name": "",
+      "type": 3,
+      "api": "csp_Bili",
+           "jar": "https://gitee.com/huasjf/tvbox/raw/master/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/huasjf/tvbox/raw/master/lib/%E6%88%8F%E6%9B%B2.jpg"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+    "urls": [
+        {
+            "name": "南风接口",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+        },
+				
+	    {
+            "name": "巧儿",
+            "url": "http://pandown.pro/tvbox/tvbox.json"
+        },
+
+
+        {
+            "name": "玩偶",
+            "url": "https://gitee.com/blssss/jk/raw/api/bls.json"
+        },
+
+        {
+            "name": "推荐",
+            "url": "http://ficfac.com/tv/box.json"
+        },
+
+        {
+            "name": "毒盒",
+            "url": "https://tv.youdu.fan:666/毒盒影视/"
+        },
+
+                      
+        {
+            "name": "道长接口",
+            "url": "https://cdn.gitmirror.com/bb/xduo/libs/master/index.json"
+        },
+        
+        
+		{
+            "name": "挺好接口",
+            "url": "https://ztha.top/TVBox/thdjk.json"
+        },
+		
+
+        {
+          "name": "天命人",
+          "url": "http://v5.myartsonline.com/ys01"
+        },
+		
+		{
+          "name": "刘公子",
+          "url": "http://源.l5.ca/"
+        },
+		
+		{
+          "name": "刘公子备",
+          "url": "https://gitlab.com/ljh6427/ljh/-/raw/main/liudan.txt"
+        },
+		
+		{
+          "name": "茶杯胡se",
+          "url": "http://love9.tbit.top/zx/data/1743219382.txt"
+        },
+		
+		{
+          "name": "茶杯胡se备",
+          "url": "https://gitlab.com/ljh6427/ljh/-/raw/main/chabeihu.txt"
+        },
+        
+		{
+          "name": "王二小",
+          "url": "http://tvbox.王二小放牛娃.top"
+        },
+		
+		{
+          "name": "音乐",
+          "url": "https://git.acwing.com/wuhui/huas/-/raw/main/jfylx.json"
+        },
+		{
+          "name": "音乐备份",
+          "url": "https://gitlab.com/ljh6427/ljh/-/raw/main/yinyue.txt"
+        },
+		
+		{
+            "name": "饭太硬接口",
+            "url": "http://www.饭太硬.com/tv"
+        }
+           ]
+}
