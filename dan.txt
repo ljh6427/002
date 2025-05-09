@@ -51,7 +51,7 @@
 		
 		{
           "name": "刘公子备",
-          "url": "https://gitlab.com/ljh6427/ljh/-/raw/main/liudan.txt"
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/ljh6427/002/main/liudan.txt"
         },
 		
 		{
@@ -61,7 +61,7 @@
 		
 		{
           "name": "茶杯胡se备",
-          "url": "https://gitlab.com/ljh6427/ljh/-/raw/main/chabeihu.txt"
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/ljh6427/002/main/chabeihu.txt"
         },
         
 		{
@@ -75,7 +75,7 @@
         },
 		{
           "name": "音乐备份",
-          "url": "https://gitlab.com/ljh6427/ljh/-/raw/main/yinyue.txt"
+          "url": "https://ghfast.top/https://raw.githubusercontent.com/ljh6427/002/main/yinyue.txt"
         },
 		
 		{
