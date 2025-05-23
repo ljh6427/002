@@ -54,10 +54,6 @@
           "url": "https://ghfast.top/https://raw.githubusercontent.com/ljh6427/002/main/liudan.txt"
         },
 		
-		{
-          "name": "茶杯胡se",
-          "url": "http://love9.tbit.top/zx/data/1743219382.txt"
-        },
 		
 		
 		{
