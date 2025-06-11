@@ -1386,6 +1386,37 @@ ACCDN,https://reflect-access-sacramento.cablecast.tv/live-7/live/live.m3u8
 
 
 
+斗鱼轮播,#genre#
+2025-06-10 16:19:26,https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/time/time.mp4
+4K60PSDR-H264-AAC测试,https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/sdr4kvideo/index.m3u8
+4K60PHLG-HEVC-EAC3测试,https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/hlg4kvideo/index.m3u8
+ 电视剧僵尸约会,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=8371123
+ 橙記Orange丶,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=4549169
+ 奇光主播,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=8009547
+ 烟雨抚风,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=11649079
+ 龍組队长天昊,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=1487654
+ 精彩短剧看不停,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=11824307
+ 丨灬释怀灬丨,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=11391949
+ 嫒沵芯卟浍变,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=11544610
+ 丨灬发财叔灬丨,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=9470198
+ 小毅主播q,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=6906628
+ baby丶贝贝,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=431460
+ 伊太刀刀,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=747764
+ 奇光主播e,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=11849873
+ 小毅主播e,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=11851549
+ 灬梅子丶,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=11645048
+ 蓝翔新三国,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=5908256
+ bbox达人,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=428402
+ 蓝翔老三国,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=7459925
+ 怡宝妹妹丶,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=434971
+ 青丝染霜华丶,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=11656555
+ 有一辆立标奔驰,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=12442176
+ 新蓝翔旧三国,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=12463728
+ 我们可爱的程程,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=329667
+ 山止月,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=12538016
+ 当燕双鹰遇见李元芳,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=3439096
+ 久了旧知,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=310926
+ LR1245,http://iptv.jxpan.vip:18888/ysp/douyu.php?id=12534632
 
 
 
@@ -2595,11 +2626,6 @@ HD音乐,https://lhttp.qingting.fm/live/15318341/64k.mp3
 浙江音乐,https://lhttp.qingting.fm/live/4866/64k.mp3
 韩宝仪40首,https://txmov2.a.kwimgs.com/bs3/video-hls/5250634324924434598_hlsb.m3u8
 王心凌40首,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946351305777158_hlsb.m3u8
-巨星珍藏系列:邓丽君经典歌曲精选1,https://vdse.bdstatic.com//d2b16e989b950ad5db5461066c8dbf46.mp4
-巨星珍藏系列:邓丽君经典歌曲精选2,https://vdse.bdstatic.com//9b36b59762cdf4a47f8c27672b35e343.mp4
-巨星珍藏系列:邓丽君经典歌曲精选3,https://vdse.bdstatic.com//a43cab220b1ac8f879a1b5e29592c9f3.mp4
-巨星珍藏系列:邓丽君经典歌曲精选4,https://vdse.bdstatic.com//286f53c579b11eecd2d70f985a685ae9.mp4
-邓丽君经典歌曲联唱,https://vdse.bdstatic.com//e4ef0d3bbf543b6ad61553680052a800.mp4
 走过咖啡屋,https://vdse.bdstatic.com//fb40ace1563b5c1563ef4f7effdfa410.mp4
 迟志强十不该,https://vdse.bdstatic.com/h265/bd5f5e15652ed56840a5a2006ba39b23f3.mp4
 迟志强愁啊愁,https://vd3.bdstatic.com/mda-mme1ngqqi2djf1z3/hd/cae_h264/1639531488188730367/mda-mme1ngqqi2djf1z3.mp4
