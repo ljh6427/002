@@ -2531,6 +2531,27 @@ ELTA体2,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/488983.m3u8
 
 
 特色频道,#genre#
+ AXN,https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
+ Channel 5 HD,https://s1.m16tv.cfd/aktv/channel5hd/AKTV.m3u8
+ Channel 8 HD,https://s1.m16tv.cfd/aktv/channel8hd/AKTV.m3u8
+ Channel U HD,https://s1.m16tv.cfd/aktv/channeluhd/AKTV.m3u8
+ myTV SUPER 18台,https://s1.m16tv.cfd/aktv/mytvsuper18/AKTV.m3u8
+ PopC,https://s1.m16tv.cfd/aktv/popc/AKTV.m3u8
+ ROCK Action,https://s1.m16tv.cfd/aktv/rockaction/AKTV.m3u8
+ TVB Plus,https://s1.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
+ tvN,https://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
+ 明珠剧集台(北美),https://s1.m16tv.cfd/aktv/CH-19/AKTV.m3u8
+ 明珠台,https://s1.m16tv.cfd/aktv/CH-2/AKTV.m3u8
+ 無線新聞台,https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
+ 翡翠剧集台(北美),https://s1.m16tv.cfd/aktv/CH-18/AKTV.m3u8
+ 翡翠台,https://s1.m16tv.cfd/aktv/CH-0/AKTV.m3u8
+ 翡翠综合台(北美),https://s1.m16tv.cfd/aktv/CH-17/AKTV.m3u8
+ 鳳凰衛視中文台,https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
+ 鳳凰衛視資訊台,https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
+ 東森電影,https://s1.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
+ 緯來體育台,https://s1.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
+ TVBS新聞,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
+ 中天新闻台,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
 星光综合台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 经典影视台,http://huanqiuzhibo.cn/manifest/douyu.php?id=6091425
 苏州电影娱乐信息,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
@@ -5720,6 +5741,18 @@ DJ音乐55,https://vd3.bdstatic.com/mda-na8740hnr2zkuqk8/480p/h264_delogo/164170
 
 
 温馨01_168888,#genre#
+松视1台,http://ali.hlspull.yximgs.com/live/c71885f5a6b7ac11130fd9373a3a63d4.flv
+松视 2 台,http://ali.hlspull.yximgs.com/live/a84288f6aa44c9d8ee0dd2bc893c68f9.flv
+松视3台,http://ali.hlspull.yximgs.com/live/aeddb51000264ddb31c31857a59b4aa1.flv
+彩虹E台,http://ali.hlspull.yximgs.com/live/b0f527dc6600fa6f7d1d555bcdbd2762.flv
+彩虹k台,http://ali.hlspull.yximgs.com/live/2cbddd5fba2369199661adb81a3b8079.flv
+彩虹电影台,http://ali.hlspull.yximgs.com/live/29da97373c682cfe7543b56b4af69f72.flv
+潘朵啦玩美台,http://ali.hlspull.yximgs.com/live/17a80b1d82886ec94058d087e01e9232.flv
+惊艳成人电影台,http://ali.hlspull.yximgs.com/live/8380a44e9972f6ba846596ad36d48ca2.flv
+香蕉台,http://ali.hlspull.yximgs.com/live/5f9475d108a8dc2a4c6f3645b54363bc.flv
+极限电影台,http://ali.hlspull.yximgs.com/live/c49bb80dd8fa1b2f5bed5c01c2a2d288.flv
+HAPPY台,http://ali.hlspull.yximgs.com/live/787cec4f8bc06f65a62d74be12c5d4f9.flv
+PIGOO写真,http://ali.hlspull.yximgs.com/live/5bcf75a5e2b0610a5abc7d8e448d63b7.flv
 Pigoo,https://luong.utako.moe/pigoo/index.m3u8
 4K超清*频道Japao,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6225/index.m3u8
 4K超清*频道Analp,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6168/index.m3u8
