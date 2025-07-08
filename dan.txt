@@ -64,22 +64,14 @@
             "url": "https://ztha.top/TVBox/thdjk.json"
         },
 		
-		
-		{
-          "name": "刘公子",
-          "url": "http://源.l5.ca/"
-        },
+
 		
 		{
           "name": "刘公子备",
           "url": "https://gitlab.com/ljh6427/ljh/-/raw/main/liudan.txt"
         },
 		
-		
-		{
-          "name": "茶杯胡se备",
-          "url": "https://gitlab.com/ljh6427/ljh/-/raw/main/chabeihu.txt"
-        },
+
         
 		{
           "name": "王二小",
