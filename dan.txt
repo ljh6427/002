@@ -11,6 +11,25 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json"
         },
 
+        {
+            "name": "快乐接口",
+            "url": "http://影视仓接口.top"
+        },
+		
+		{
+            "name": "老4K秒播",
+            "url": "http://宝盒接口.top"
+        },
+		
+		{
+            "name": "肥猫",
+            "url": "http://hello.肥猫.com"
+        },
+		
+		{
+            "name": "粉丝自制",
+            "url": "https://codeberg.org/mzjk0/api/raw/branch/main/vip.json"
+        },
 		
 	    {
             "name": "巧儿",
