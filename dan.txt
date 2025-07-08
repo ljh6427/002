@@ -2,9 +2,16 @@
     "urls": [
         {
             "name": "南风接口",
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
         },
-				
+			
+      
+        {
+            "name": "电视自用接口",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json"
+        },
+
+		
 	    {
             "name": "巧儿",
             "url": "http://pandown.pro/tvbox/tvbox.json"
@@ -38,11 +45,6 @@
             "url": "https://ztha.top/TVBox/thdjk.json"
         },
 		
-
-        {
-          "name": "天命人",
-          "url": "http://v5.myartsonline.com/ys01"
-        },
 		
 		{
           "name": "刘公子",
@@ -51,21 +53,13 @@
 		
 		{
           "name": "刘公子备",
-          "url": "https://ghfast.top/https://raw.githubusercontent.com/ljh6427/002/main/liudan.txt"
+          "url": "https://gitlab.com/ljh6427/ljh/-/raw/main/liudan.txt"
         },
-		
-		
-		
-		{
-          "name": "18",
-          "url": "https://ghfast.top/https://raw.githubusercontent.com/ljh6427/002/main/18.txt"
-        },
-		
 		
 		
 		{
           "name": "茶杯胡se备",
-          "url": "https://ghfast.top/https://raw.githubusercontent.com/ljh6427/002/main/chabeihu.txt"
+          "url": "https://gitlab.com/ljh6427/ljh/-/raw/main/chabeihu.txt"
         },
         
 		{
@@ -79,7 +73,7 @@
         },
 		{
           "name": "音乐备份",
-          "url": "https://ghfast.top/https://raw.githubusercontent.com/ljh6427/002/main/yinyue.txt"
+          "url": "https://gitlab.com/ljh6427/ljh/-/raw/main/yinyue.txt"
         },
 		
 		{
