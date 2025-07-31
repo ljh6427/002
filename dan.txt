@@ -11,9 +11,19 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json"
         },
 
-{
+        {
             "name": "刘公子",
             "url": "https://my5353.com/liugongzi"
+        },
+		
+		{
+            "name": "成人",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json"
+        },
+		
+		{
+            "name": "正常",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json"
         },
 		
         {
