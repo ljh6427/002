@@ -104,7 +104,7 @@ CHC影迷电影,http://cdn6.bkpcp.top/tl/tuiliu.php?id=ymdy
 
 
 
-八六西游,#genre#
+经典影剧,#genre#
 
 西游记 第1集,https://txmov2.a.kwimgs.com/bs3/video-hls/5222486782687309806_hlsb.m3u8
 西游记 第2集,https://txmov2.a.kwimgs.com/bs3/video-hls/5221923836211844606_hlsb.m3u8
@@ -131,6 +131,122 @@ CHC影迷电影,http://cdn6.bkpcp.top/tl/tuiliu.php?id=ymdy
 西游记 第23集,https://txmov2.a.kwimgs.com/bs3/video-hls/5201094684845468508_hlsb.m3u8
 西游记 第24集,https://txmov2.a.kwimgs.com/bs3/video-hls/5245567730520243844_hlsb.m3u8
 西游记 第25集,https://txmov2.a.kwimgs.com/bs3/video-hls/5215168436118306105_hlsb.m3u8
+新白娘子传奇 第1集,https://vip.ffzy-online.com/20221207/29683_1338bd77/2000k/hls/mixed.m3u8
+新白娘子传奇 第2集,https://vip.ffzy-online.com/20221207/29684_3dab2eb4/2000k/hls/mixed.m3u8
+新白娘子传奇 第3集,https://vip.ffzy-online.com/20221207/29685_3aa793d0/2000k/hls/mixed.m3u8
+新白娘子传奇 第4集,https://vip.ffzy-online.com/20221207/29686_4c6279f8/2000k/hls/mixed.m3u8
+新白娘子传奇 第5集,https://vip.ffzy-online.com/20221207/29687_482d76ca/2000k/hls/mixed.m3u8
+新白娘子传奇 第6集,https://vip.ffzy-online.com/20221207/29688_9196285b/2000k/hls/mixed.m3u8
+新白娘子传奇 第7集,https://vip.ffzy-online.com/20221207/29689_13d6579f/2000k/hls/mixed.m3u8
+新白娘子传奇 第8集,https://vip.ffzy-online.com/20221207/29690_11654f1d/2000k/hls/mixed.m3u8
+新白娘子传奇 第9集,https://vip.ffzy-online.com/20221207/29691_e0851f6b/2000k/hls/mixed.m3u8
+新白娘子传奇 第10集,https://vip.ffzy-online.com/20221207/29692_62a82934/2000k/hls/mixed.m3u8
+新白娘子传奇 第11集,https://vip.ffzy-online.com/20221207/29693_417197b2/2000k/hls/mixed.m3u8
+新白娘子传奇 第12集,https://vip.ffzy-online.com/20221207/29696_d11a7fc2/2000k/hls/mixed.m3u8
+新白娘子传奇 第13集,https://vip.ffzy-online.com/20221207/29695_94af3488/2000k/hls/mixed.m3u8
+新白娘子传奇 第14集,https://vip.ffzy-online.com/20221207/29694_f313e39f/2000k/hls/mixed.m3u8
+新白娘子传奇 第15集,https://vip.ffzy-online.com/20221207/29697_c3b30b5b/2000k/hls/mixed.m3u8
+新白娘子传奇 第16集,https://vip.ffzy-online.com/20221207/29698_9fd1145e/2000k/hls/mixed.m3u8
+新白娘子传奇 第17集,https://vip.ffzy-online.com/20221207/29699_2574173d/2000k/hls/mixed.m3u8
+新白娘子传奇 第18集,https://vip.ffzy-online.com/20221207/29700_ec704d9e/2000k/hls/mixed.m3u8
+新白娘子传奇 第19集,https://vip.ffzy-online.com/20221207/29701_69c8b28a/2000k/hls/mixed.m3u8
+新白娘子传奇 第20集,https://vip.ffzy-online.com/20221207/29702_6d69a791/2000k/hls/mixed.m3u8
+新白娘子传奇 第21集,https://vip.ffzy-online.com/20221207/29703_1002bc52/2000k/hls/mixed.m3u8
+新白娘子传奇 第22集,https://vip.ffzy-online.com/20221207/29704_fea082ab/2000k/hls/mixed.m3u8
+新白娘子传奇 第23集,https://vip.ffzy-online.com/20221207/29705_629acd3f/2000k/hls/mixed.m3u8
+新白娘子传奇 第24集,https://vip.ffzy-online.com/20221207/29706_69fefb33/2000k/hls/mixed.m3u8
+新白娘子传奇 第25集,https://vip.ffzy-online.com/20221207/29707_5a886a1e/2000k/hls/mixed.m3u8
+新白娘子传奇 第26集,https://vip.ffzy-online.com/20221207/29708_016bf157/2000k/hls/mixed.m3u8
+新白娘子传奇 第27集,https://vip.ffzy-online.com/20221207/29709_c75372f5/2000k/hls/mixed.m3u8
+新白娘子传奇 第28集,https://vip.ffzy-online.com/20221207/29710_590736d3/2000k/hls/mixed.m3u8
+新白娘子传奇 第29集,https://vip.ffzy-online.com/20221207/29711_9e974705/2000k/hls/mixed.m3u8
+新白娘子传奇 第30集,https://vip.ffzy-online.com/20221207/29712_2aa40cc3/2000k/hls/mixed.m3u8
+新白娘子传奇 第31集,https://vip.ffzy-online.com/20221207/29716_f04c8440/2000k/hls/mixed.m3u8
+新白娘子传奇 第32集,https://vip.ffzy-online.com/20221207/29714_1cdf1b0f/2000k/hls/mixed.m3u8
+新白娘子传奇 第33集,https://vip.ffzy-online.com/20221207/29715_c0a73cad/2000k/hls/mixed.m3u8
+新白娘子传奇 第34集,https://vip.ffzy-online.com/20221207/29713_187b2074/2000k/hls/mixed.m3u8
+新白娘子传奇 第35集,https://vip.ffzy-online.com/20221207/29718_c175214e/2000k/hls/mixed.m3u8
+新白娘子传奇 第37集,https://vip.ffzy-online.com/20221207/29717_9c07630f/2000k/hls/mixed.m3u8
+新白娘子传奇 第38集,https://vip.ffzy-online.com/20221207/29721_56fb1f46/2000k/hls/mixed.m3u8
+新白娘子传奇 第39集,https://vip.ffzy-online.com/20221207/29720_2eaef0db/2000k/hls/mixed.m3u8
+新白娘子传奇 第40集,https://vip.ffzy-online.com/20221207/29723_b30ec713/2000k/hls/mixed.m3u8
+新白娘子传奇 第41集,https://vip.ffzy-online.com/20221207/29724_08be935c/2000k/hls/mixed.m3u8
+新白娘子传奇 第42集,https://vip.ffzy-online.com/20221207/29722_37980174/2000k/hls/mixed.m3u8
+新白娘子传奇 第43集,https://vip.ffzy-online.com/20221207/29729_469473d2/2000k/hls/mixed.m3u8
+新白娘子传奇 第44集,https://vip.ffzy-online.com/20221207/29725_b8e6a502/2000k/hls/mixed.m3u8
+新白娘子传奇 第45集,https://vip.ffzy-online.com/20221207/29728_a8c45209/2000k/hls/mixed.m3u8
+新白娘子传奇 第46集,https://vip.ffzy-online.com/20221207/29726_a6ffe05a/2000k/hls/mixed.m3u8
+新白娘子传奇 第47集,https://vip.ffzy-online.com/20221207/29727_832a6fab/2000k/hls/mixed.m3u8
+新白娘子传奇 第48集,https://vip.ffzy-online.com/20221207/29730_5b1a05cd/2000k/hls/mixed.m3u8
+新白娘子传奇 第49集,https://vip.ffzy-online.com/20221207/29732_fa83b88d/2000k/hls/mixed.m3u8
+新白娘子传奇 第50集,https://vip.ffzy-online.com/20221207/29731_1cea3325/2000k/hls/mixed.m3u8
+
+
+
+射雕英雄传 第1集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第01集/index.m3u8
+射雕英雄传 第2集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第02集/index.m3u8
+射雕英雄传 第3集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第03集/index.m3u8
+射雕英雄传 第4集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第04集/index.m3u8
+射雕英雄传 第5集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第05集/index.m3u8
+射雕英雄传 第6集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第06集/index.m3u8
+射雕英雄传 第7集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第07集/index.m3u8
+射雕英雄传 第8集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第08集/index.m3u8
+射雕英雄传 第9集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第09集/index.m3u8
+射雕英雄传 第10集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第10集/index.m3u8
+射雕英雄传 第11集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第11集/index.m3u8
+射雕英雄传 第12集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第12集/index.m3u8
+射雕英雄传 第13集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第13集/index.m3u8
+射雕英雄传 第14集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第14集/index.m3u8
+射雕英雄传 第15集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第15集/index.m3u8
+射雕英雄传 第16集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第16集/index.m3u8
+射雕英雄传 第17集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第17集/index.m3u8
+射雕英雄传 第18集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第18集/index.m3u8
+射雕英雄传 第19集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第19集/index.m3u8
+射雕英雄传 第20集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第20集/index.m3u8
+射雕英雄传 第21集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第21集/index.m3u8
+射雕英雄传 第22集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第22集/index.m3u8
+射雕英雄传 第23集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第23集/index.m3u8
+射雕英雄传 第24集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第24集/index.m3u8
+射雕英雄传 第25集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第25集/index.m3u8
+射雕英雄传 第26集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第26集/index.m3u8
+射雕英雄传 第27集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第27集/index.m3u8
+射雕英雄传 第28集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第28集/index.m3u8
+射雕英雄传 第29集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第29集/index.m3u8
+射雕英雄传 第30集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第30集/index.m3u8
+射雕英雄传 第31集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第31集/index.m3u8
+射雕英雄传 第32集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第32集/index.m3u8
+射雕英雄传 第33集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第33集/index.m3u8
+射雕英雄传 第34集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第34集/index.m3u8
+射雕英雄传 第35集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第35集/index.m3u8
+射雕英雄传 第36集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第36集/index.m3u8
+射雕英雄传 第37集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第37集/index.m3u8
+射雕英雄传 第38集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第38集/index.m3u8
+射雕英雄传 第39集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第39集/index.m3u8
+射雕英雄传 第40集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第40集/index.m3u8
+射雕英雄传 第41集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第41集/index.m3u8
+射雕英雄传 第42集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第42集/index.m3u8
+射雕英雄传 第43集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第43集/index.m3u8
+射雕英雄传 第44集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第44集/index.m3u8
+射雕英雄传 第45集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第45集/index.m3u8
+射雕英雄传 第46集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第46集/index.m3u8
+射雕英雄传 第47集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第47集/index.m3u8
+射雕英雄传 第48集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第48集/index.m3u8
+射雕英雄传 第49集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第49集/index.m3u8
+射雕英雄传 第50集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第50集/index.m3u8
+射雕英雄传 第51集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第51集/index.m3u8
+射雕英雄传 第52集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第52集/index.m3u8
+射雕英雄传 第53集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第53集/index.m3u8
+射雕英雄传 第54集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第54集/index.m3u8
+射雕英雄传 第55集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第55集/index.m3u8
+射雕英雄传 第56集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第56集/index.m3u8
+射雕英雄传 第57集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第57集/index.m3u8
+射雕英雄传 第58集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第58集/index.m3u8
+射雕英雄传 第59集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第59集/index.m3u8
+射雕英雄传 第50集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第50集/index.m3u8
+射雕英雄传 第51集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第51集/index.m3u8
+射雕英雄传 第52集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第52集/index.m3u8
+射雕英雄传 第53集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第53集/index.m3u8
+射雕英雄传 第54集,https://s5.bfengbf.com/
 
 
 
