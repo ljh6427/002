@@ -21,10 +21,11 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json"
         },
 
-{
+        {
             "name": "18",
-            "url": "https://gh-proxy.com/https://github.com/su147456888444/tvbox/raw/main/22.json"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ljh6427/002/main/18.txt"
         },
+
 
 		
 		{
@@ -111,6 +112,11 @@
 		{
             "name": "饭太硬接口",
             "url": "http://www.饭太硬.com/tv"
+        },
+		{
+            "name": "公子仓",
+            "url": "https://gzc.lzo.publicvm.com/cangku.json"
         }
            ]
 }
+
