@@ -18,7 +18,7 @@
 		
 		{
             "name": "成人",
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json"
         },
 
 {
@@ -29,7 +29,7 @@
 		
 		{
             "name": "正常",
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json"
         },
 		
         {
@@ -89,7 +89,7 @@
 		
 		{
           "name": "刘公子备",
-          "url": "https://gitlab.com/ljh6427/ljh/-/raw/main/liudan.txt"
+          "url": "https://gh-proxy.com/https://gitlab.com/ljh6427/ljh/-/raw/main/liudan.txt"
         },
 		
 
@@ -105,7 +105,7 @@
         },
 		{
           "name": "音乐备份",
-          "url": "https://gitlab.com/ljh6427/ljh/-/raw/main/yinyue.txt"
+          "url": "https://gh-proxy.com/https://gitlab.com/ljh6427/ljh/-/raw/main/yinyue.txt"
         },
 		
 		{
@@ -114,4 +114,3 @@
         }
            ]
 }
-
