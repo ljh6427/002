@@ -1,3 +1,7 @@
+
+
+
+
 •YouTube「其他」,#genre#
 凤凰资讯,https://live.iill.top/youtube/@phoenixtvhk
 寰宇新闻,https://live.iill.top/youtube/@globalnewstw
@@ -68,75 +72,52 @@ Mleague,https://live.iill.top/youtube/@PRISONER1224
 
 
 
-
-
-
-
-
-
-
-
-
-
-•抖音「娱乐」,#genre#
-点击此频道·查看重要信息！🔔,https://epg.iill.top/v/301.mp4
-沫沫🍒,http://dns.yiandrive.com:13571/douyin/56g75
-芷芷,http://dns.yiandrive.com:13571/douyin/55301671083
-BB酱,http://dns.yiandrive.com:13571/douyin/bbj0817_
-小护士💉,http://dns.yiandrive.com:13571/douyin/Q345328
-绒大,http://dns.yiandrive.com:13571/douyin/Rr0ng
-程儿,http://dns.yiandrive.com:13571/douyin/chenger0915
-小邦尼Voney,http://dns.yiandrive.com:13571/douyin/voney626
-小希🦁,http://dns.yiandrive.com:13571/douyin/3941797
-甜豆🦋,http://dns.yiandrive.com:13571/douyin/45892114187
-小包子心er,http://dns.yiandrive.com:13571/douyin/xing52xing
-蓝柒儿,http://dns.yiandrive.com:13571/douyin/LANQIER707
-新月001,http://dns.yiandrive.com:13571/douyin/Mansorry0
-张金儿,http://dns.yiandrive.com:13571/douyin/Zfovik229
-柒月,http://dns.yiandrive.com:13571/douyin/SS072788
-小豆干,http://dns.yiandrive.com:13571/douyin/69561584138
-阿泽.新疆无界派直播中,http://dns.yiandrive.com:13571/douyin/HZ641221260
-就叫学姐(私信封禁15天),http://dns.yiandrive.com:13571/douyin/aixuejie33
-衣亿U,http://dns.yiandrive.com:13571/douyin/9628781YY
-艾琳Eileen,http://dns.yiandrive.com:13571/douyin/70174314
-糕冷八宝粥,http://dns.yiandrive.com:13571/douyin/36120776718
-雪雷雷,http://dns.yiandrive.com:13571/douyin/45803058764
-胖胖✈️☁️,http://dns.yiandrive.com:13571/douyin/102953757
-姜妍妍,http://dns.yiandrive.com:13571/douyin/Miyasz
-邻家.,http://dns.yiandrive.com:13571/douyin/LJ7777777.
-富贵姨姨,http://dns.yiandrive.com:13571/douyin/78024448986
-超宠小葵,http://dns.yiandrive.com:13571/douyin/79040354199
-周猩猩的麻将进化日记,http://dns.yiandrive.com:13571/douyin/ZXXXJCM
-徐沐,http://dns.yiandrive.com:13571/douyin/301448104897
-小妖姬🩰,http://dns.yiandrive.com:13571/douyin/284972045391
-兔子菌🍄,http://dns.yiandrive.com:13571/douyin/191634020590
-姜南🍁,http://dns.yiandrive.com:13571/douyin/18588810219
-然宝🐻,http://dns.yiandrive.com:13571/douyin/213303117
-玲～,http://dns.yiandrive.com:13571/douyin/60403330702
-小仙儿❤️,http://dns.yiandrive.com:13571/douyin/5888wy.
-李知恩,http://dns.yiandrive.com:13571/douyin/ws2345666
-香香草,http://dns.yiandrive.com:13571/douyin/cheeen666
-文婷🦄️,http://dns.yiandrive.com:13571/douyin/Wtccc666
-小乔.,http://dns.yiandrive.com:13571/douyin/qh6868687
-靓女2,http://dns.yiandrive.com:13571/douyin/55141468202
-裴秀秀,http://dns.yiandrive.com:13571/douyin/momoBCF
-追飞机的哈士奇,http://dns.yiandrive.com:13571/douyin/585275492
-糖不苦,http://dns.yiandrive.com:13571/douyin/67330727758
-桃桃🍑,http://dns.yiandrive.com:13571/douyin/Z9993211
-张小月,http://dns.yiandrive.com:13571/douyin/64760218171
-小央视频,http://dns.yiandrive.com:13571/douyin/cctv_video
-光音里,http://dns.yiandrive.com:13571/douyin/187786036155
-西安发布,http://dns.yiandrive.com:13571/douyin/xianfabu029
-雷军,http://dns.yiandrive.com:13571/douyin/xiaomizhibojian
-阿水,http://dns.yiandrive.com:13571/douyin/94431876743
-新华社,http://dns.yiandrive.com:13571/douyin/xinhuashe
-
-
-
-
-
-电影频道,#genre#
+测试频道,#genre#
+FTV综艺,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-mszyt.flv
+TVBS,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-tvbs.flv
+TVBS新闻台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-tvbsxwt.flv
+TVB明珠台15,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-mzt.flv
+V6香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
+八大第一台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bddy.flv
+八大综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bdzh.flv
+东森LIVE,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-dsxw.flv
+东森财经新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-dscjxw.flv
+翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
+凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
+凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
+凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhwszwt-012346789.flv
+凤凰咨询,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
+凤凰咨询,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhwszxt-012346789.flv
+华视新闻资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-hsxw.flv
+美亚电影台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
+民视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ms.flv
+民视第一台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-msdyt.flv
+民视台湾台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-mstwt.flv
+民视新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
+民视新闻台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-msxwt.flv
+三立新闻台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-slxw.flv
+三立综合台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-slzh.flv
+香港HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
+中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ztxwt.flv
+中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw01.flv
+中天亚洲台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ztyzt.flv
+中天综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztzh.flv
+斗鱼电影1y,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+末日电影合集,http://43.138.0.72:35455/yy/1354889019
+神乐欧美影院,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 美亚电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya#http://php.jdshipin.com/TVOD/iptv.php?id=meiya#http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
+凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
+凤凰资讯,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
+中天新闻 HD,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
+中天娱乐 CTI Entertaiment,https://smart.pendy.dpdns.org/Smart.php?id=ctient
+公视 CTV,https://smart.pendy.dpdns.org/Smart.php?id=ctv18_twn
+三立综合 Sanli Metro,https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
+东森财经新闻 ETTV Business,https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
+寰宇新闻台,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
+
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 1905电影台,https://tv.666150.xyz/1905.php
 CHC影迷电影1,http://hzzzz530.com:4022/udp/239.69.1.241:11088
@@ -193,175 +174,8 @@ y+剧场,http://hms3659nc3747353871.live.aikan.miguvideo.com/PLTV/88888888/224/3
 养生堂,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1032_720P_t10/c60_fast_1032_720P_t10.m3u8?d
 健康大问诊,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1035_720P_t10/c60_fast_1035_720P_t10.m3u8?d
 健康养生,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1046_720P_t10/c59_fast_1046_720P_t10.m3u8?d
-YY电影台01,http://6666666.mghost.site/1/yy2.php?id=1382749892&token=98fd5a02c8803df6a350dfe9f9fb07a9
-YY电影台02,http://6666666.mghost.site/1/yy2.php?id=1382735573&token=98fd5a02c8803df6a350dfe9f9fb07a9
-YY电影台03,http://6666666.mghost.site/1/yy2.php?id=24921161&token=98fd5a02c8803df6a350dfe9f9fb07a9
-YY电影台04,http://6666666.mghost.site/1/yy2.php?id=1382736803&token=98fd5a02c8803df6a350dfe9f9fb07a9
-YY电影台05,http://6666666.mghost.site/1/yy2.php?id=1354930924&token=98fd5a02c8803df6a350dfe9f9fb07a9
-YY电影台06,http://6666666.mghost.site/1/yy2.php?id=1382745095&token=98fd5a02c8803df6a350dfe9f9fb07a9
-YY电影台07,http://6666666.mghost.site/1/yy2.php?id=1355171357&token=98fd5a02c8803df6a350dfe9f9fb07a9
-YY电影台08,http://6666666.mghost.site/1/yy2.php?id=24066336&token=98fd5a02c8803df6a350dfe9f9fb07a9
-YY电影台09,http://6666666.mghost.site/1/yy2.php?id=1354143966&token=98fd5a02c8803df6a350dfe9f9fb07a9
-YY李连杰台,http://6666666.mghost.site/1/yy2.php?id=1459869766&token=98fd5a02c8803df6a350dfe9f9fb07a9
-YY成龍影院,http://6666666.mghost.site/1/yy2.php?id=1354888751&token=98fd5a02c8803df6a350dfe9f9fb07a9
-YY林正英频,http://6666666.mghost.site/1/yy2.php?id=1351505899&token=98fd5a02c8803df6a350dfe9f9fb07a9
-YY林正英道,http://6666666.mghost.site/1/yy2.php?id=1353685311&token=98fd5a02c8803df6a350dfe9f9fb07a9
-YY電影輪播,http://6666666.mghost.site/1/yy2.php?id=1353059120&token=98fd5a02c8803df6a350dfe9f9fb07a9
-YY歐美電影,http://6666666.mghost.site/1/yy2.php?id=24923327&token=98fd5a02c8803df6a350dfe9f9fb07a9
-YY歐美科幻,http://6666666.mghost.site/1/yy2.php?id=37988782&token=98fd5a02c8803df6a350dfe9f9fb07a9
-YY歐美動作,http://6666666.mghost.site/1/yy2.php?id=1382745089&token=98fd5a02c8803df6a350dfe9f9fb07a9
-YY連續劇台,http://6666666.mghost.site/1/yy2.php?id=1352227227&token=98fd5a02c8803df6a350dfe9f9fb07a9
-YY剧场频道,http://6666666.mghost.site/1/yy2.php?id=1382702247&token=98fd5a02c8803df6a350dfe9f9fb07a9
-YY剧场怀旧,http://6666666.mghost.site/1/yy2.php?id=1382627144&token=98fd5a02c8803df6a350dfe9f9fb07a9
-菲菲影院,http://6666666.mghost.site/1/yy2.php?id=1456668939&token=98fd5a02c8803df6a350dfe9f9fb07a9
-幸福影院,http://6666666.mghost.site/1/yy2.php?id=1382737886&token=98fd5a02c8803df6a350dfe9f9fb07a9
-经典鬼片,http://6666666.mghost.site/1/yy2.php?id=29460894&token=98fd5a02c8803df6a350dfe9f9fb07a9
-米娜影院,http://6666666.mghost.site/1/yy2.php?id=1382690078&token=98fd5a02c8803df6a350dfe9f9fb07a9
-豪哥影院,http://6666666.mghost.site/1/yy2.php?id=23402146&token=98fd5a02c8803df6a350dfe9f9fb07a9
-绝版电影,http://6666666.mghost.site/1/yy2.php?id=1454587259&token=98fd5a02c8803df6a350dfe9f9fb07a9
-港片电影,http://6666666.mghost.site/1/yy2.php?id=1355479289&token=98fd5a02c8803df6a350dfe9f9fb07a9
-泡芙影院,http://6666666.mghost.site/1/yy2.php?id=24407222&token=98fd5a02c8803df6a350dfe9f9fb07a9
-数码测评,http://6666666.mghost.site/1/yy2.php?id=11352878&token=98fd5a02c8803df6a350dfe9f9fb07a9
-林正英电影,http://6666666.mghost.site/1/yy2.php?id=34229877&token=98fd5a02c8803df6a350dfe9f9fb07a9
-封神榜,http://6666666.mghost.site/1/yy2.php?id=1353426319&token=98fd5a02c8803df6a350dfe9f9fb07a9
-知否知否,http://6666666.mghost.site/1/yy2.php?id=21881901&token=98fd5a02c8803df6a350dfe9f9fb07a9
-正阳门下,http://6666666.mghost.site/1/yy2.php?id=1354931580&token=98fd5a02c8803df6a350dfe9f9fb07a9
-雍正王朝,http://6666666.mghost.site/1/yy2.php?id=23206872&token=98fd5a02c8803df6a350dfe9f9fb07a9
-下饭神剧,http://6666666.mghost.site/1/yy2.php?id=23512910&token=98fd5a02c8803df6a350dfe9f9fb07a9
-武林外传,http://6666666.mghost.site/1/yy2.php?id=1355914397&token=98fd5a02c8803df6a350dfe9f9fb07a9
-神医喜来乐,http://6666666.mghost.site/1/yy2.php?id=1382714119&token=98fd5a02c8803df6a350dfe9f9fb07a9
-地下交通站,http://6666666.mghost.site/1/yy2.php?id=1353428972&token=98fd5a02c8803df6a350dfe9f9fb07a9
-宰相刘罗锅,http://6666666.mghost.site/1/yy2.php?id=1382745191&token=98fd5a02c8803df6a350dfe9f9fb07a9
-隋唐英雄传,http://6666666.mghost.site/1/yy2.php?id=1352475619&token=98fd5a02c8803df6a350dfe9f9fb07a9
-豆瓣高分,http://zzy789.xyz/douyu1.php?id=8770422
-爱情公寓,http://zzy789.xyz/douyu1.php?id=6863367
 
 
-
-
-
-
-
-港台测试,#genre#
-年代新闻台,http://ai.wyp8.top/agent/dl1.php?id=%E5%B9%B4%E4%BB%A3%E6%96%B0%E9%97%BB%E5%8F%B0
-港台电视31,http://ai.wyp8.top/agent/dl1.php?id=%E6%B8%AF%E5%8F%B0%E7%94%B5%E8%A7%8631
-凤凰卫视中文台,http://ai.wyp8.top/agent/dl1.php?id=%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87%E5%8F%B0
-NOW直播台,http://ai.wyp8.top/agent/dl1.php?id=NOW%E7%9B%B4%E6%92%AD%E5%8F%B0
-八大综合台,http://ai.wyp8.top/agent/dl1.php?id=%E5%85%AB%E5%A4%A7%E7%BB%BC%E5%90%88%E5%8F%B0
-NOW新闻台,http://ai.wyp8.top/agent/dl1.php?id=NOW%E6%96%B0%E9%97%BB%E5%8F%B0
-ELEVEN 1（DAZN 1）,http://ai.wyp8.top/agent/dl1.php?id=ELEVEN+1%EF%BC%88DAZN+1%EF%BC%89
-华丽翡翠台,http://ai.wyp8.top/agent/dl1.php?id=%E5%8D%8E%E4%B8%BD%E7%BF%A1%E7%BF%A0%E5%8F%B0
-FOX新聞,http://ai.wyp8.top/agent/dl1.php?id=FOX%E6%96%B0%E8%81%9E
-民视影剧台,http://ai.wyp8.top/agent/dl1.php?id=%E6%B0%91%E8%A7%86%E5%BD%B1%E5%89%A7%E5%8F%B0
-好莱坞电影,http://ai.wyp8.top/agent/dl1.php?id=%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%94%B5%E5%BD%B1
-东森综合台,http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88%E5%8F%B0
-东森新闻台,http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB%E5%8F%B0
-TVB明珠台,http://ai.wyp8.top/agent/dl1.php?id=TVB%E6%98%8E%E7%8F%A0%E5%8F%B0
-中天亚洲台,http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%AD%E5%A4%A9%E4%BA%9A%E6%B4%B2%E5%8F%B0
-TVBS HD,http://ai.wyp8.top/agent/dl1.php?id=TVBS+HD
-HOY国际财经台,http://ai.wyp8.top/agent/dl1.php?id=HOY%E5%9B%BD%E9%99%85%E8%B4%A2%E7%BB%8F%E5%8F%B0
-TVB娱乐新闻台,http://ai.wyp8.top/agent/dl1.php?id=TVB%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB%E5%8F%B0
-民视,http://ai.wyp8.top/agent/dl1.php?id=%E6%B0%91%E8%A7%86
-寰宇新闻台,http://ai.wyp8.top/agent/dl1.php?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0
-东森电影台,http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1%E5%8F%B0
-TVBS新闻台,http://ai.wyp8.top/agent/dl1.php?id=TVBS%E6%96%B0%E9%97%BB%E5%8F%B0
-香港有线18台,http://ai.wyp8.top/agent/dl1.php?id=%E9%A6%99%E6%B8%AF%E6%9C%89%E7%BA%BF18%E5%8F%B0
-寰宇新闻台湾台,http://ai.wyp8.top/agent/dl1.php?id=%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0%E6%B9%BE%E5%8F%B0
-Discovery,http://ai.wyp8.top/agent/dl1.php?id=Discovery
-TVB无线新闻台,http://ai.wyp8.top/agent/dl1.php?id=TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0
-ViuTV6,http://ai.wyp8.top/agent/dl1.php?id=ViuTV6
-ELEVEN 2（DAZN 2）,http://ai.wyp8.top/agent/dl1.php?id=ELEVEN+2%EF%BC%88DAZN+2%EF%BC%89
-香港有线18台(备),http://ai.wyp8.top/agent/dl1.php?id=%E9%A6%99%E6%B8%AF%E6%9C%89%E7%BA%BF18%E5%8F%B0%28%E5%A4%87%29
-凤凰卫视资讯台,http://ai.wyp8.top/agent/dl1.php?id=%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0
-华视新闻台,http://ai.wyp8.top/agent/dl1.php?id=%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0
-纬来日本台,http://ai.wyp8.top/agent/dl1.php?id=%E7%BA%AC%E6%9D%A5%E6%97%A5%E6%9C%AC%E5%8F%B0
-MOMO综合台,http://ai.wyp8.top/agent/dl1.php?id=MOMO%E7%BB%BC%E5%90%88%E5%8F%B0
-HBO HD,http://ai.wyp8.top/agent/dl1.php?id=HBO+HD
-台视,http://ai.wyp8.top/agent/dl1.php?id=%E5%8F%B0%E8%A7%86
-美亚电影台,http://ai.wyp8.top/agent/dl1.php?id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1%E5%8F%B0
-华视,http://ai.wyp8.top/agent/dl1.php?id=%E5%8D%8E%E8%A7%86
-大爱一台,http://ai.wyp8.top/agent/dl1.php?id=%E5%A4%A7%E7%88%B1%E4%B8%80%E5%8F%B0
-NOW财经台,http://ai.wyp8.top/agent/dl1.php?id=NOW%E8%B4%A2%E7%BB%8F%E5%8F%B0
-民视台湾台,http://ai.wyp8.top/agent/dl1.php?id=%E6%B0%91%E8%A7%86%E5%8F%B0%E6%B9%BE%E5%8F%B0
-港台电视32,http://ai.wyp8.top/agent/dl1.php?id=%E6%B8%AF%E5%8F%B0%E7%94%B5%E8%A7%8632
-东森超视,http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A7%86
-TVBS精彩台,http://ai.wyp8.top/agent/dl1.php?id=TVBS%E7%B2%BE%E5%BD%A9%E5%8F%B0
-台视新闻台,http://ai.wyp8.top/agent/dl1.php?id=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0
-三立都会台,http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%89%E7%AB%8B%E9%83%BD%E4%BC%9A%E5%8F%B0
-纬来体育台,http://ai.wyp8.top/agent/dl1.php?id=%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2%E5%8F%B0
-中天新闻台,http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB%E5%8F%B0
-BBC新闻,http://ai.wyp8.top/agent/dl1.php?id=BBC%E6%96%B0%E9%97%BB
-TVBS欢乐台,http://ai.wyp8.top/agent/dl1.php?id=TVBS%E6%AC%A2%E4%B9%90%E5%8F%B0
-中天综合台,http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88%E5%8F%B0
-非凡新闻,http://ai.wyp8.top/agent/dl1.php?id=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB
-ViuTV,http://ai.wyp8.top/agent/dl1.php?id=ViuTV
-HOY TV,http://ai.wyp8.top/agent/dl1.php?id=HOY+TV
-TVB翡翠台,http://ai.wyp8.top/agent/dl1.php?id=TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0
-纬来育乐台,http://ai.wyp8.top/agent/dl1.php?id=%E7%BA%AC%E6%9D%A5%E8%82%B2%E4%B9%90%E5%8F%B0
-三立综合台,http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%89%E7%AB%8B%E7%BB%BC%E5%90%88%E5%8F%B0
-CNN新闻,http://ai.wyp8.top/agent/dl1.php?id=CNN%E6%96%B0%E9%97%BB
-民视新闻台,http://ai.wyp8.top/agent/dl1.php?id=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0
-民视旅游台,http://ai.wyp8.top/agent/dl1.php?id=%E6%B0%91%E8%A7%86%E6%97%85%E6%B8%B8%E5%8F%B0
-香港有线新闻台,http://ai.wyp8.top/agent/dl1.php?id=%E9%A6%99%E6%B8%AF%E6%9C%89%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0
-民视综艺台,http://ai.wyp8.top/agent/dl1.php?id=%E6%B0%91%E8%A7%86%E7%BB%BC%E8%89%BA%E5%8F%B0
-爱尔达体育2台,http://ai.wyp8.top/agent/dl1.php?id=%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B22%E5%8F%B0
-民视第一台,http://ai.wyp8.top/agent/dl1.php?id=%E6%B0%91%E8%A7%86%E7%AC%AC%E4%B8%80%E5%8F%B0
-镜电视新闻台,http://ai.wyp8.top/agent/dl1.php?id=%E9%95%9C%E7%94%B5%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0
-爱尔达体育3台,http://ai.wyp8.top/agent/dl1.php?id=%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B23%E5%8F%B0
-八大第一台,http://ai.wyp8.top/agent/dl1.php?id=%E5%85%AB%E5%A4%A7%E7%AC%AC%E4%B8%80%E5%8F%B0
-中视,http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%AD%E8%A7%86
-爱尔达体育4台,http://ai.wyp8.top/agent/dl1.php?id=%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B24%E5%8F%B0
-HOY资讯台,http://ai.wyp8.top/agent/dl1.php?id=HOY%E8%B5%84%E8%AE%AF%E5%8F%B0
-凤凰卫视香港台,http://ai.wyp8.top/agent/dl1.php?id=%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E9%A6%99%E6%B8%AF%E5%8F%B0
-大爱二台,http://ai.wyp8.top/agent/dl1.php?id=%E5%A4%A7%E7%88%B1%E4%BA%8C%E5%8F%B0
-三立新闻台,http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB%E5%8F%B0
-东森财经新闻台,http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%9C%E6%A3%AE%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB%E5%8F%B0
-三立台湾台,http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE%E5%8F%B0
-公视,http://ai.wyp8.top/agent/dl1.php?id=%E5%85%AC%E8%A7%86
-爱尔达体育1台,http://ai.wyp8.top/agent/dl1.php?id=%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B21%E5%8F%B0
-TVB Plus,http://ai.wyp8.top/agent/dl1.php?id=TVB+Plus
-中视新闻台,http://ai.wyp8.top/agent/dl1.php?id=%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0
-
-
-
-
-
-
-
-
-
-
-
-港台频道,#genre#
-FTV综艺,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-mszyt.flv
-TVBS,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-tvbs.flv
-TVBS新闻台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-tvbsxwt.flv
-TVB明珠台15,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-mzt.flv
-V6香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
-八大第一台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bddy.flv
-八大综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bdzh.flv
-东森LIVE,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-dsxw.flv
-东森财经新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-dscjxw.flv
-翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
-凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
-凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
-凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhwszwt-012346789.flv
-凤凰咨询,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
-凤凰咨询,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhwszxt-012346789.flv
-华视新闻资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-hsxw.flv
-美亚电影台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
-民视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ms.flv
-民视第一台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-msdyt.flv
-民视台湾台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-mstwt.flv
-民视新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
-民视新闻台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-msxwt.flv
-三立新闻台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-slxw.flv
-三立综合台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-slzh.flv
-香港HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
-中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ztxwt.flv
-中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw01.flv
-中天亚洲台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ztyzt.flv
-中天综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztzh.flv
 
 
 
@@ -436,99 +250,9 @@ CCTVNEWS,http://183.24.62.163:44443/tsfile/live/0016_1.m3u8?key=txiptv&playlive=
 
 
 
-秒播测试,#genre#
-CCTV1综合,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=123  
-CCTV2财经,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=cctv2
-CCTV3综艺,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=cctv3  
-CCTV4中文国际,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=cctv4  
-CCTV4美洲,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=cctv4a  
-CCTV4欧洲,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=cctv4o  
-CCTV6电影,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=cctv6  
-CCTV7国防军事,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=cctv7  
-CCTV8电视剧,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=cctv8  
-CCTV9纪录,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=cctv9  
-CCTV10科教,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=cctv10  
-CCTV12社会与法,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=cctv12  
-CCTV13新闻,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=cctv13  
-CCTV14少儿,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=cctv14  
-CCTV15音乐,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=cctv15  
-CCTV17农业农村,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=cctv17  
-CCTV发现之旅,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=fxzl  
-CCTV老故事,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=lgs  
-CCTV中学生,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=zxs  CGTN,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=cgtn  
- 东方卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=dfws  
-陕西卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=sxws  
-河南卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=hnws  
-江西卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=jxws  
-江苏卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=jsws  
-广东卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=gdws  
-大湾区卫视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=dwqws  
-东方影视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=dfys  
-上海新闻综合,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=shxwzh  
-上海第一财经,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=dycj  
-江苏城市,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=jscs  
-江苏综艺,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=jszy  
-江苏影视,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=jsys  
-掼蛋精英赛,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=gdjys  
-高清大片,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=gqdp  
-红色轮播台,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=hslbt  
-经典动画大集合,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=jddhdjh  
-经典香港电影,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=jdxgdy  
-军事迷必看大片,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=jsdp  
-华语乐坛最强音,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=hyytzqy  
-咪咕24小时体育台,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=mg24hty  
-赛事最经典,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=sszjd  
-体坛名栏汇,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=ttmlh  
-乡村振兴,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=xczx  
-幸福中国年,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=xfzgn  
-新片放映厅,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=xpfyt  
-最强综艺趴,http://154.201.91.7:5555/tvbox/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%A5%BD%E4%BA%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%8A%A9%E6%89%8B/%E5%92%AA%E5%92%95/%E5%92%AA%E5%92%95.php?ID=zqzyp
 
 
 
-
-
-
-
-临时测试,#genre#
-CHC影迷电影1,http://hzzzz530.com:4022/udp/239.69.1.241:11088
-斗鱼国产电影,http://b.zgjok.com:35455/douyu/122402
-斗鱼恐怖电影,http://b.zgjok.com:35455/douyu/263824
-斗鱼电影1y,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
-斗鱼电影4y,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=99705a1921ddd49fb7079a02f02bedc4&token=cpn-androidmpro-0-20415-b6774b3b3249db17d8beee6676fdf877fe8b1576307ef8e6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
-斗鱼香港电影,http://b.zgjok.com:35455/douyu/6079455
-斗鱼高分电影,http://b.zgjok.com:35455/douyu/431460
-斗鱼魔幻影院,http://www.douzhicloud.site:35455/douyu/1274132
-斗鱼魔幻影院,http://b.zgjok.com:35455/douyu/1274132
-末日电影合集,http://43.138.0.72:35455/yy/1354889019
-神乐欧美影院,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-家庭剧场,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_877_720P_t10/c54_fast_877_720P_t10.m3u8?d
-怀旧年代,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_883_720P_t10/c57_fast_883_720P_t10.m3u8?d
-都市生活,http://bscloudcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_878_720P_t10/c56_fast_878_720P_t10.m3u8?d
-传奇剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_1052_720P_t10/c54_fast_1052_720P_t10.m3u8?d
-警匪悬疑,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c58_fast_880_720P_t10/c58_fast_880_720P_t10.m3u8?d
-古装剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_879_720P_t10/c55_fast_879_720P_t10.m3u8?d
-抗战剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_884_720P_t10/c54_fast_884_720P_t10.m3u8?d
-谍战剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_882_720P_t10/c57_fast_882_720P_t10.m3u8?d
-欢乐剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_951_720P_t10/c56_fast_951_720P_t10.m3u8?d
-经典老剧,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c55_fast_1051_720P_t10/c55_fast_1051_720P_t10.m3u8?d
-乡村剧场,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1050_720P_t10/c59_fast_1050_720P_t10.m3u8?d
-电影大片,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_738_720P_t10/c57_fast_738_720P_t10.m3u8?d
-爆笑综艺,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_954_720P_t10/c57_fast_954_720P_t10.m3u8?d
-智勇闯关,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1027_720P_t10/c60_fast_1027_720P_t10.m3u8?d
-相声小品,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1044_720P_t10/c59_fast_1044_720P_t10.m3u8?d
-中国通史,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1029_720P_t10/c60_fast_1029_720P_t10.m3u8?d
-世界历史,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1026_720P_t10/c60_fast_1026_720P_t10.m3u8?d
-传奇故事,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1037_720P_t10/c60_fast_1037_720P_t10.m3u8?d
-经典传奇,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
-纪实档案,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1034_720P_t10/c60_fast_1034_720P_t10.m3u8?d
-第三调解室,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1033_720P_t10/c60_fast_1033_720P_t10.m3u8?d
-金牌调解,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1039_720P_t10/c59_fast_1039_720P_t10.m3u8?d
-养生堂,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1032_720P_t10/c60_fast_1032_720P_t10.m3u8?d
-健康大问诊,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1035_720P_t10/c60_fast_1035_720P_t10.m3u8?d
-健康养生,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1046_720P_t10/c59_fast_1046_720P_t10.m3u8?d
 
 
 
@@ -742,224 +466,6 @@ CHC影迷电影,http://cdn6.bkpcp.top/tl/tuiliu.php?id=ymdy
 
 
 
-
-
-
-
-
-
-
-
-
-斯玛特一,#genre# 
-翡翠台,https://smart.pendy.dpdns.org/Smart.php?id=jade_twn
-翡翠台 backup,https://smart.pendy.dpdns.org/Smart.php?id=Jade_xue
-J 2,https://smart.pendy.dpdns.org/Smart.php?id=j2_twn
-珍珠台,https://smart.pendy.dpdns.org/Smart.php?id=pearl_twn
-凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
-HOY资讯台,https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
-RHK 31,https://smart.pendy.dpdns.org/Smart.php?id=rhk31_twn
-VIUTV1,https://smart.pendy.dpdns.org/Smart.php?id=viu1_twn
-RHK 32,https://smart.pendy.dpdns.org/Smart.php?id=rhk32_twn
-凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
-凤凰资讯,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
-Viu6,https://smart.pendy.dpdns.org/Smart.php?id=viusix_twn
-CCTV-1 综合 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
-CCTV-2 财经,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
-CCTV-3 综艺 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv3
-CCTV-4 中文国际,https://smart.pendy.dpdns.org/Smart.php?id=cctv4
-CCTV4 新闻台,https://smart.pendy.dpdns.org/Smart.php?id=Cctv4
-CCTV-5 体育频道,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
-CCTV-5+ 体育赛事 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
-CCTV-6,https://smart.pendy.dpdns.org/Smart.php?id=cctv6
-CCTV-7 军事农业,https://smart.pendy.dpdns.org/Smart.php?id=cctv7
-CCTV-8 电视剧 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
-CCTV-9 记录 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
-CCTV-10 科教 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd
-CCTV-11 戏曲,https://smart.pendy.dpdns.org/Smart.php?id=cctv11
-CCTV-12 社会与法,https://smart.pendy.dpdns.org/Smart.php?id=cctv12
-CCTV-13 新闻频道,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
-CCTV-14 少儿,https://smart.pendy.dpdns.org/Smart.php?id=cctv14
-CCTV-6,https://smart.pendy.dpdns.org/Smart.php?id=cctv6
-CCTV-15 音乐,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
-湖南卫视,https://smart.pendy.dpdns.org/Smart.php?id=hunan_twn
-浙江卫视,https://smart.pendy.dpdns.org/Smart.php?id=zhejiang_twn
-江苏卫视,https://smart.pendy.dpdns.org/Smart.php?id=jiangsu_twn
-深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
-福建东南卫视,https://smart.pendy.dpdns.org/Smart.php?id=fujian
-广东南方卫视,https://smart.pendy.dpdns.org/Smart.php?id=nanfang_twn
-广东卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangdongweishi_twn
-北京卫视,https://smart.pendy.dpdns.org/Smart.php?id=beijing
-珠江台,https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
-广西卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangxi
-湖北卫视,https://smart.pendy.dpdns.org/Smart.php?id=hubei
-四川卫视,https://smart.pendy.dpdns.org/Smart.php?id=sichuan_twn
-东方卫视,https://smart.pendy.dpdns.org/Smart.php?id=dongfangweishi_twn
-CGTN,https://smart.pendy.dpdns.org/Smart.php?id=CGTN
-TVBS News 新闻台,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
-TVBS 欢乐台 （备份）,https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
-TVBS HD,https://smart.pendy.dpdns.org/Smart.php?id=tvbs
-中天新闻 HD,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
-中天娱乐 CTI Entertaiment,https://smart.pendy.dpdns.org/Smart.php?id=ctient
-中天综合 CTI Metro,https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe
-中天亚洲台,https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
-台视 TTV HD,https://smart.pendy.dpdns.org/Smart.php?id=ttv_taiwan
-台视新闻台,https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
-台视综合台,https://smart.pendy.dpdns.org/Smart.php?id=ttvzhonghe
-中视 HD,https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
-中视新闻台,https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
-民视 HD,https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
-民视新闻台 FTV News,https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
-民视台湾台,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
-华视 CTS HD,https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
-公视 CTV,https://smart.pendy.dpdns.org/Smart.php?id=ctv18_twn
-八大第一 GTV First,https://smart.pendy.dpdns.org/Smart.php?id=badafirst
-八大综合 GTV Metro,https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
-八大戏剧 GTV Drama,https://smart.pendy.dpdns.org/Smart.php?id=badadrama
-八大娱乐 GTV Entertainment,https://smart.pendy.dpdns.org/Smart.php?id=badaentertain
-HBO_HD,https://smart.pendy.dpdns.org/Smart.php?id=hbohd_twn
-HBO_HITS,https://smart.pendy.dpdns.org/Smart.php?id=hbohit_twn
-Hollywood Movies,https://smart.pendy.dpdns.org/Smart.php?id=hollywoodmovies_twn
-三立台湾 Sanli Taiwan,https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
-三立戏剧台,https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
-三立综合 Sanli Metro,https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
-三立都会台,https://smart.pendy.dpdns.org/Smart.php?id=sanlidouhui
-东森新闻 ETTV News,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
-CINEMAX,https://smart.pendy.dpdns.org/Smart.php?id=cinemax_twn
-东森综合 ETTV Metro,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
-东森戏剧 ETTV Drama,https://smart.pendy.dpdns.org/Smart.php?id=ettvdrama
-东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
-东森财经新闻 ETTV Business,https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
-寰宇财经,https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
-寰宇新闻台,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
-公视2,https://smart.pendy.dpdns.org/Smart.php?id=ctv2_twn
-大爱1台,https://smart.pendy.dpdns.org/Smart.php?id=daai_twn
-非凡新闻台,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
-龙华戏剧 Lunghua Drama,https://smart.pendy.dpdns.org/Smart.php?id=lunghuaxiju_twn
-龙华经典台,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
-龙华偶像,https://smart.pendy.dpdns.org/Smart.php?id=lunghuaidol_twn
-AXN Taiwan,https://smart.pendy.dpdns.org/Smart.php?id=axn_twn
-靖天国际台,https://smart.pendy.dpdns.org/Smart.php?id=jingtianintl_twn
-年代新闻,https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
-纬来日本台,https://smart.pendy.dpdns.org/Smart.php?id=videolandjapan
-纬来电影台,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
-纬来体育台,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
-纬来综合台,https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
-纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
-纬来精彩,https://smart.pendy.dpdns.org/Smart.php?id=videolandspecial_twn
-好消息 2,https://smart.pendy.dpdns.org/Smart.php?id=good2_twn
-大爱2台,https://smart.pendy.dpdns.org/Smart.php?id=daai2_twn
-亚洲美食,https://smart.pendy.dpdns.org/Smart.php?id=afc_twn
-美食星球,https://smart.pendy.dpdns.org/Smart.php?id=foodplanet_twn
-亚洲旅游 TLC Asia,https://smart.pendy.dpdns.org/Smart.php?id=tlc_twn
-东森电影 ETTV Movie,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
-阿里郎 Arirang,https://smart.pendy.dpdns.org/Smart.php?id=arirang_twn
-博斯运动 1,https://smart.pendy.dpdns.org/Smart.php?id=bosisport1_twn
-博斯运动 2,https://smart.pendy.dpdns.org/Smart.php?id=bosisport2_twn
-博斯高球2 HD,https://smart.pendy.dpdns.org/Smart.php?id=bosigolf2_twn
-博斯网球 HD,https://smart.pendy.dpdns.org/Smart.php?id=bositennis_twn
-东森洋片 ETTV Western,https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
-龙华洋片 Lunghua Western,https://smart.pendy.dpdns.org/Smart.php?id=lunghuawestern_twn
-博斯无限,https://smart.pendy.dpdns.org/Smart.php?id=bosiunlimited_twn
-MTV Live,https://smart.pendy.dpdns.org/Smart.php?id=mtvhd_twn
-龙详时代,https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
-EYETV 旅游,https://smart.pendy.dpdns.org/Smart.php?id=eyetvtravel_twn
-靖天卡通台,https://smart.pendy.dpdns.org/Smart.php?id=jingtiancartoon_twn
-EYETV 戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
-卫视中文台 Star Movies Chinese,https://smart.pendy.dpdns.org/Smart.php?id=weishichinese_twn
-东森幼幼 Yoyo TV,https://smart.pendy.dpdns.org/Smart.php?id=yoyo_twn
-卫视电影台,https://smart.pendy.dpdns.org/Smart.php?id=weishimovie_twn
-美亚电影,https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
-爱尔达影剧台,https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn
-爱尔达综合台,https://smart.pendy.dpdns.org/Smart.php?id=eltazonghe_twn
-星卫电影,https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
-AFC 亚洲旅游台,https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
-
-Cinemax,https://smart.pendy.dpdns.org/Smart.php?id=Cinemax
-Animax,https://smart.pendy.dpdns.org/Smart.php?id=Animax
-Movies Now HD,https://smart.pendy.dpdns.org/Smart.php?id=moviesnow_raj
-Star Movies HD,https://smart.pendy.dpdns.org/Smart.php?id=starmovies_raj
-HBO Family,https://smart.pendy.dpdns.org/Smart.php?id=Hbofamily
-Hits,https://smart.pendy.dpdns.org/Smart.php?id=Hits
-Warner TV,https://smart.pendy.dpdns.org/Smart.php?id=WarnerTV
-HBO HD,https://smart.pendy.dpdns.org/Smart.php?id=Hbo
-HBO Signature,https://smart.pendy.dpdns.org/Smart.php?id=Hbosignature
-HBO Hits,https://smart.pendy.dpdns.org/Smart.php?id=Hbohitshd
-SCM,https://smart.pendy.dpdns.org/Smart.php?id=Weishimovie
-Dreamworks,https://smart.pendy.dpdns.org/Smart.php?id=Dreamworks
-Thrill,https://smart.pendy.dpdns.org/Smart.php?id=Thrill
-Hits Movie,https://smart.pendy.dpdns.org/Smart.php?id=Hitsmovie
-One,https://smart.pendy.dpdns.org/Smart.php?id=One
-tvN Movie,https://smart.pendy.dpdns.org/Smart.php?id=Tvnmovie
-Celestial Classic,https://smart.pendy.dpdns.org/Smart.php?id=Celestial2
-Celestial Movies HD,https://smart.pendy.dpdns.org/Smart.php?id=Celestialindo
-Axn HD,https://smart.pendy.dpdns.org/Smart.php?id=Axn
-Paramount Network,https://smart.pendy.dpdns.org/Smart.php?id=Paramountnetwork
-Astrol Kplus,https://smart.pendy.dpdns.org/Smart.php?id=Kplus
-Rock Actions,https://smart.pendy.dpdns.org/Smart.php?id=Rockaction
-Rock Entertainment,https://smart.pendy.dpdns.org/Smart.php?id=Rockentertain
-
-
-华丽台 HD （Wah Lai Toi）,https://smart.pendy.dpdns.org/Smart.php?id=Wlt
-欢喜台 HD （Hua Hee Tai）,https://smart.pendy.dpdns.org/Smart.php?id=Huahee
-Astro QJ,https://smart.pendy.dpdns.org/Smart.php?id=Quanjia
-TVB Jade,https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade
-TVB Asia,https://smart.pendy.dpdns.org/Smart.php?id=Tvbasia
-TVB Entertainment,https://smart.pendy.dpdns.org/Smart.php?id=Tvbentertainment
-TVB Classic,https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic
-AOD,https://smart.pendy.dpdns.org/Smart.php?id=Aodhd
-TVB 星河台 Xing He,https://smart.pendy.dpdns.org/Smart.php?id=Xinhe
-爱奇艺 iQiyi,https://smart.pendy.dpdns.org/Smart.php?id=Qiyi
-Goshop,https://smart.pendy.dpdns.org/Smart.php?id=Goshop
-Celestial Movies HD,https://smart.pendy.dpdns.org/Smart.php?id=Celestial
-Astro LOL,https://smart.pendy.dpdns.org/Smart.php?id=Astro_lol
-Astro Rusi,https://smart.pendy.dpdns.org/Smart.php?id=Rusi
-WION,https://smart.pendy.dpdns.org/Smart.php?id=Wion
-RTM Asean,https://smart.pendy.dpdns.org/Smart.php?id=Rtmasean
-Channel 3 Thailand,https://smart.pendy.dpdns.org/Smart.php?id=ch3_pat
-Channel 5 Thailand,https://smart.pendy.dpdns.org/Smart.php?id=ch5_pat
-Channel 7 Thailand,https://smart.pendy.dpdns.org/Smart.php?id=ch7_pat
-MCOT HD Thailand-1,https://smart.pendy.dpdns.org/Smart.php?id=mcot_pat
-PPTV Thailand1,https://smart.pendy.dpdns.org/Smart.php?id=pptv_pat
-Thai Thai,https://smart.pendy.dpdns.org/Smart.php?id=thaithai_pat
-Amarin,https://smart.pendy.dpdns.org/Smart.php?id=amarin_pat
-Ch 8,https://smart.pendy.dpdns.org/Smart.php?id=ch8_pat
-GmmOne,https://smart.pendy.dpdns.org/Smart.php?id=gmmone_pat
-Mono,https://smart.pendy.dpdns.org/Smart.php?id=mono_pat
-Thairath,https://smart.pendy.dpdns.org/Smart.php?id=thairath_pat
-tpbs,https://smart.pendy.dpdns.org/Smart.php?id=tpbs_pat
-Workpoint,https://smart.pendy.dpdns.org/Smart.php?id=workpoint_pat
-Gmm Channel,https://smart.pendy.dpdns.org/Smart.php?id=gmmchannel_pat
-Nation,https://smart.pendy.dpdns.org/Smart.php?id=nation_pat
-Tnn24,https://smart.pendy.dpdns.org/Smart.php?id=tnn24_pat
-Nbt,https://smart.pendy.dpdns.org/Smart.php?id=nbt_pat
-New,https://smart.pendy.dpdns.org/Smart.php?id=new_pat
-TPTV,https://smart.pendy.dpdns.org/Smart.php?id=tptv_pat
-ANTV,https://smart.pendy.dpdns.org/Smart.php?id=viet_antv
-VTV 1,https://smart.pendy.dpdns.org/Smart.php?id=viet_vtv1
-VTV 7,https://smart.pendy.dpdns.org/Smart.php?id=viet_vtv7
-HTV 7,https://smart.pendy.dpdns.org/Smart.php?id=viet_htv7
-HTV 9,https://smart.pendy.dpdns.org/Smart.php?id=viet_htv9
-BPTV 2,https://smart.pendy.dpdns.org/Smart.php?id=viet_bptv2
-Arirang HD,https://smart.pendy.dpdns.org/Smart.php?id=arirang_korea
-Yonhap News,https://smart.pendy.dpdns.org/Smart.php?id=yonhapnews_korea
-CBS,https://smart.pendy.dpdns.org/Smart.php?id=cbs_korea
-EBS 1,https://smart.pendy.dpdns.org/Smart.php?id=ebs1_korea
-EBS2,https://smart.pendy.dpdns.org/Smart.php?id=ebs2_korea
-EBS Plus2,https://smart.pendy.dpdns.org/Smart.php?id=ebsplus2_korea
-SBS Plus,https://smart.pendy.dpdns.org/Smart.php?id=sbsplus_korea
-YTN,https://smart.pendy.dpdns.org/Smart.php?id=ytn_korea
-KBS World 24,https://smart.pendy.dpdns.org/Smart.php?id=kbsworld24_korea
-NHK-総合-2,https://smart.pendy.dpdns.org/Smart.php?id=nhkg_japan
-NHK-E,https://smart.pendy.dpdns.org/Smart.php?id=nhke_japan
-テレビ朝日 Asahi TV,https://smart.pendy.dpdns.org/Smart.php?id=asahitv_japan
-JET 綜合,https://smart.pendy.dpdns.org/Smart.php?id=jettv_japan
-テレビ東京 Tokyo TV,https://smart.pendy.dpdns.org/Smart.php?id=tokyotv_japan
-TOKYOMX,https://smart.pendy.dpdns.org/Smart.php?id=tokyomx_japan
-NHKBS1,https://smart.pendy.dpdns.org/Smart.php?id=nhkbs1_japan
-NHKBSプレミア Premium,https://smart.pendy.dpdns.org/Smart.php?id=nhkpremium_japan
-BSジャパン 181,https://smart.pendy.dpdns.org/Smart.php?id=bs181_japan
-BSフジ BS Fuji,https://smart.pendy.dpdns.org/Smart.php?id=bsfuji_japan
 
 
 
@@ -1280,87 +786,6 @@ Discovery,http://api.mytv666.top/api/hk.php?id=313638636162656566613262363131366
 
 
 
-
-
-全球电视,#genre#
-CCTV1,http://110.177.144.22:9003/hls/1/index.m3u8
-CCTV2,http://110.177.144.22:9003/hls/2/index.m3u8
-CCTV3,http://110.177.144.22:9003/hls/3/index.m3u8
-CCTV4,http://110.177.144.22:9003/hls/4/index.m3u8
-CCTV5,http://110.177.144.22:9003/hls/5/index.m3u8
-CCTV5+,http://110.177.144.22:9003/hls/6/index.m3u8
-CCTV6,http://110.177.144.22:9003/hls/7/index.m3u8
-CCTV7,http://110.177.144.22:9003/hls/8/index.m3u8
-CCTV8,http://110.177.144.22:9003/hls/9/index.m3u8
-CCTV9,http://110.177.144.22:9003/hls/10/index.m3u8
-CCTV10,http://110.177.144.22:9003/hls/11/index.m3u8
-CCTV11,http://110.177.144.22:9003/hls/12/index.m3u8
-CCTV12,http://110.177.144.22:9003/hls/13/index.m3u8
-CCTV13,http://110.177.144.22:9003/hls/14/index.m3u8
-CCTV14,http://110.177.144.22:9003/hls/15/index.m3u8
-CCTV15,http://110.177.144.22:9003/hls/16/index.m3u8
-CCTV16,http://110.177.144.22:9003/hls/17/index.m3u8
-CCTV17,http://110.177.144.22:9003/hls/18/index.m3u8
-山西卫视,http://110.177.144.22:9003/hls/19/index.m3u8
-北京卫视,http://110.177.144.22:9003/hls/20/index.m3u8
-安徽卫视,http://110.177.144.22:9003/hls/21/index.m3u8
-重庆卫视,http://110.177.144.22:9003/hls/22/index.m3u8
-福建卫视,http://110.177.144.22:9003/hls/24/index.m3u8
-甘肃卫视,http://110.177.144.22:9003/hls/25/index.m3u8
-广东卫视,http://110.177.144.22:9003/hls/26/index.m3u8
-广西卫视,http://110.177.144.22:9003/hls/27/index.m3u8
-海南卫视,http://110.177.144.22:9003/hls/28/index.m3u8
-河北卫视,http://110.177.144.22:9003/hls/29/index.m3u8
-河南卫视,http://110.177.144.22:9003/hls/30/index.m3u8
-黑龙江卫视,http://110.177.144.22:9003/hls/31/index.m3u8
-湖北卫视,http://110.177.144.22:9003/hls/32/index.m3u8
-湖南卫视,http://110.177.144.22:9003/hls/33/index.m3u8
-吉林卫视,http://110.177.144.22:9003/hls/34/index.m3u8
-江苏卫视,http://110.177.144.22:9003/hls/35/index.m3u8
-江西卫视,http://110.177.144.22:9003/hls/36/index.m3u8
-辽宁卫视,http://110.177.144.22:9003/hls/37/index.m3u8
-内蒙卫视,http://110.177.144.22:9003/hls/38/index.m3u8
-宁夏卫视,http://110.177.144.22:9003/hls/39/index.m3u8
-青海卫视,http://110.177.144.22:9003/hls/40/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-糖意咪咕,#genre#
-CCTV1,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv1
-CCTV2,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv2
-CCTV3,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv3
-CCTV4,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv4
-CCTV5,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv5
-CCTV6,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv6
-CCTV7,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv7
-CCTV8,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv8
-CCTV9,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv9
-CCTV10,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv10
-CCTV11,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv11
-CCTV12,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv12
-CCTV13,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv13
-CCTV14,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv14
-CCTV15,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv15
-CCTV16,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv16
-CCTV17,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv17
-CCTV5+,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv5p
-浙江卫视,http://zba.sxdh.org/migu.php?v=index.php?&id=zjws
-江苏卫视,http://zba.sxdh.org/migu.php?v=index.php?&id=jsws
-东方卫视,http://zba.sxdh.org/migu.php?v=index.php?&id=dfws
-北京卫视,http://zba.sxdh.org/migu.php?v=index.php?&id=bjws
-安徽卫视,http://zba.sxdh.org/migu.php?v=index.php?&id=ahws
-广东卫视,http://zba.sxdh.org/migu.php?v=index.php?&id=gdws
-深圳卫视,http://zba.sxdh.org/migu.php?v=index.php?&id=sjws
-辽宁卫视,http://zba.sxdh.org/migu.php?v=index.php?&id=lnws
 
 
 
@@ -2428,152 +1853,7 @@ TNT_体2AKtv,http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
 TNT_体3AKtv,http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
 Sky体-F1AKtv,http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
 animax漫AKtv,http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
-中天新闻4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv009
-寰宇新闻4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn14
-东森新闻4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv152
-tvbs新闻4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv072
-三立新闻4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live089
-三立新闻4Gtv,https://www.judy.xx.kg/judy.php?id=iNEWS
-非凡新闻4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv010
-闽镜新闻4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv075
-民视新闻4Gtv,https://www.judy.xx.kg/judy.php?id=litv-ftv13
-中视新闻4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv074
-华视新闻4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv052
-台视新闻4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv051
-民视4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv002
-民视4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv155
-中视4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv040
-华视4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv041
-台视4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv066
-寰宇4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv156
-tvbs4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv073
-民视台湾4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv001
-民视第一4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv003
-民视旅游4Gtv,https://www.judy.xx.kg/judy.php?id=litv-ftv07
-民视影剧4Gtv,https://www.judy.xx.kg/judy.php?id=litv-ftv09
-民视综艺4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv004
-中视菁采4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv064
-中视经典4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv080
-台视财经4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv056
-公视戏剧4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv042
-戏剧4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn22
-国际财经4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv104
-全球财经4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live060
-东森财经4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv153
-寰宇财经4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv158
-cnbc财经4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live130
-tvbs精采4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv067
-tvbs欢乐4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv068
-tvbs综艺4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live087
-tvbs台剧4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live088
-八大精彩4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv034
-八大综艺4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv039
-三立综合4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live207
-爱达娱乐4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv070
-靖洋戏剧4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv045
-靖洋卡通4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv057
-靖天卡通4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv044
-靖天综合4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv046
-靖天日本4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv047
-靖天欢乐4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv054
-靖天映画4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv055
-靖天戏剧4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv058
-靖天电影4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv061
-靖天育乐4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv062
-靖天国际4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv063
-靖天资讯4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv065
-龙华卡通4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn01
-龙华日韩4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn11
-龙华偶像4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn12
-龙华电影4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn03
-龙华洋片4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn02
-龙华戏剧4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn18
-龙华经典4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn21
-国会频壹4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv084
-国会频贰4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv085
-好消息壹4Gtv,https://www.judy.xx.kg/judy.php?id=litv-ftv16
-好消息贰4Gtv,https://www.judy.xx.kg/judy.php?id=litv-ftv17
-大爱壹高4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live007
-大爱贰高4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live106
-人间卫视4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live008
-原住民族4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live014
-唐人亚太4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live050
-智林体育4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv101
-博斯魅力4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn04
-博斯网球4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn09
-博高球壹4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn05
-博高球贰4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn06
-博运动壹4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn07
-博运动贰4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn08
-博无限壹4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn10
-博无限贰4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn13
-阿里郎台4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv079
-滚动人生4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live012
-达文西台4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv018
-猪哥亮厅4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv006
-亚洲旅游4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv076
-ELta旅游4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live120
-美国之音4Gtv,https://www.judy.xx.kg/judy.php?id=litv-ftv03
-半岛新闻4Gtv,https://www.judy.xx.kg/judy.php?id=litv-ftv10
-非凡商业4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv048
-第壹商业4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv109
-影迷纪实4Gtv,https://www.judy.xx.kg/judy.php?id=litv-ftv15
-经典电影4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live021
-经典卡通4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live022
-精选动漫4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live024
-戏剧壹台4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live010
-古典音乐4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv059
-客家电视4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv043
-华仁纪实4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv013
-时尚运动4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv014
-空间居家4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live206
-生活英语4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn20
-互动英语4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live030
-采昌影剧4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv049
-数位电影4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv011
-欧洲电影4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live157
-Amc电影4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv017
-CINEMA-4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live069
-TRA体育4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv077
-车迷体育4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live201
-SMArt台4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn19
-罪案侦查4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live027
-霹雳布袋4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live145
-金光布袋4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live144
-nick动漫4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live032
-nick少儿4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live105
-MO-亲子4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live107
-DreamW4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live017
-LUXE-TV4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live121
-rock娱乐4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live080
-rock电影4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live138
-HItS电影4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live620
-magellan4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live123
-INULTRa4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live096
-LifeTime4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live029
-电影原声4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live031
-MTVLive4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live025
-PETClUB4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live110
-FUN娱乐4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live011
-韩国娱乐4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv016
-GLOBAL4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live112
-TV5mon4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live122
-TRACEU4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv082
-BLoomb4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live059
-FRANCE4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live146
-MEZZOl4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv083
-GINX_TV4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv053
-DW-之声4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live071
-历史频道4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live026
-国家地理4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live208
-东森购壹4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live047
-东森购壹4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv102
-东森购壹4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv102
-东森购贰4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live046
-东森购贰4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv103
-东森购贰4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv103
-东森购叁4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live048
-东森购五4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live049
+
 凤凰中文频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
 凤凰资讯频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
 凤凰香港频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
