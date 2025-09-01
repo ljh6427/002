@@ -1123,28 +1123,7 @@ CGTN英语,http://116.237.148.215:8881/rtp/239.45.1.194:5140
 
 
 
-
-
-
-
-松石港台,#genre#
-精艳,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-完美台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-松1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-极限台,http://live.urren.net:80/live/52a17518b977aefcc8a15c4d1fa639e0.flv
-happy,http://live.urren.net:80/live/b91ba11fc289bab64f1ad60dc94bab37.flv
-🍌,http://live.urren.net:80/live/0d742da923c2ba221fb828a872712ce1.flv
-🌈,http://live.urren.net:80/live/e0136d7531f72262b7d64282f51f2664.flv
-K频道,http://live.urren.net:80/live/cba69b88fe2f3595e42186e7c5081e11.flv
-极限,http://pullsstx.peiyou.eaydu.com/live/hktv-jstv018.flv
-精艳,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-完美台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-松1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-极限台,http://live.urren.net:80/live/52a17518b977aefcc8a15c4d1fa639e0.flv
-happy,http://live.urren.net:80/live/b91ba11fc289bab64f1ad60dc94bab37.flv
-🍌,http://live.urren.net:80/live/0d742da923c2ba221fb828a872712ce1.flv
-🌈,http://live.urren.net:80/live/e0136d7531f72262b7d64282f51f2664.flv
-K频道,http://live.urren.net:80/live/cba69b88fe2f3595e42186e7c5081e11.flv
+港澳测试,#genre#
 TVB翡翠,http://iptv.4666888.xyz/iptv.php?id=20066  
 TVB翡翠(新加坡),http://iptv.4666888.xyz/iptv.php?id=20067  
 TVB翡翠(马来),http://iptv.4666888.xyz/iptv.php?id=20068  
@@ -7540,6 +7519,16 @@ PLAYh,https://2.ddyunbo.com/20190908/zSd2DI9R/index.m3u8
 
 
 三级老片,#genre#
+精艳,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+完美台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+松1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+极限台,http://live.urren.net:80/live/52a17518b977aefcc8a15c4d1fa639e0.flv
+happy,http://live.urren.net:80/live/b91ba11fc289bab64f1ad60dc94bab37.flv
+🍌,http://live.urren.net:80/live/0d742da923c2ba221fb828a872712ce1.flv
+🌈,http://live.urren.net:80/live/e0136d7531f72262b7d64282f51f2664.flv
+K频道,http://live.urren.net:80/live/cba69b88fe2f3595e42186e7c5081e11.flv
+极限,http://pullsstx.peiyou.eaydu.com/live/hktv-jstv018.flv
+
 📀不道德的故事,https://jkunbf.com/20231213/xRh9NRNv/index.m3u8
 📀红辣椒,https://vip.lz-cdn7.com/20230420/15476_c7976155/index.m3u8
 📀色戒,https://hd.ijycnd.com/play/ZdPAWwye/index.m3u8
@@ -10214,6 +10203,7 @@ X博士（美国恐怖片）,https://vip.lzcdn2.com/20220419/3815_e1d1a25a/index
 电锯惊魂2（美国恐怖片）,https://vip.lzcdn2.com/20220320/114_fda49280/index.m3u8
 电锯惊魂（美国恐怖片）,https://vip.lzcdn2.com/20220320/106_793772be/index.m3u8
 罪人（美国恐怖片）,https://vip1.lz-cdn1.com/20220317/173_dbf7c859/index.m3u8
+
 
 
 
