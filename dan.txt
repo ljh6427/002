@@ -4,7 +4,12 @@
             "name": "南风接口",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
         },
-			
+
+        {
+            "name": "189",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ljh6427/002/main/189.txt"
+        },
+
       
         {
             "name": "电视自用接口",
@@ -125,5 +130,6 @@
         }
            ]
 }
+
 
 
