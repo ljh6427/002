@@ -1,6 +1,11 @@
 {
     "urls": [
         {
+            "name": "摸鱼",
+            "url": "https://pan.baidu.re/down.php/8f5874983280ba8c9d95c9d6130945c2.txt"
+        },
+
+        {
             "name": "南风接口",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
         },
@@ -130,6 +135,7 @@
         }
            ]
 }
+
 
 
 
