@@ -1,3 +1,73 @@
+港·澳·台,#genre#
+松视1,http://devpulllive.xylink.com:80/live/3f27ceadaa156456e14cd951637e320f.flv
+松视2,http://devpulllive.xylink.com:80/live/0d0c7d8b96fc6a8486d3f8c14b648d36.flv
+松视3,http://devpulllive.xylink.com:80/live/b6fc149e0780b181029c2ddcb8cc95c1.flv
+e频道,http://devpulllive.xylink.com:80/live/54fe4640ec80cd3014307d3b98fa2863.flv
+K频道,http://devpulllive.xylink.com:80/live/18b0f88af5aed2ab4ca0e3c522105cd4.flv
+彩虹电影,http://devpulllive.xylink.com:80/live/2c376357aefe066dd12d464b2583e19f.flv
+潘多拉,http://devpulllive.xylink.com:80/live/4b5de6648c35e39094ca838a27cc4548.flv
+惊艳,http://devpulllive.xylink.com:80/live/8180640621f63c76c275c0dd28e447ca.flv
+香蕉,http://devpulllive.xylink.com:80/live/32b4f242caefddf82418e447ce6e131c.flv
+happy,http://devpulllive.xylink.com:80/live/f7e3a3efc7b060376c0e9d33100a6012.flv
+极限电影台,http://devpulllive.xylink.com:80/live/f1ace1da37a9e2179340b564e37371ce.flv
+凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
+凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
+凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+Love Nature HD,https://live.tvfix.org/live/lovenature/index.m3u8
+无线新闻台,https://live.tvfix.org/live/inews/index.m3u8
+美亚电影台,https://live.tvfix.org/live/mydy/index.m3u8
+TVBS亚洲台,https://live.tvfix.org/live/tvbs/index.m3u8
+娱乐新闻台,https://live.tvfix.org/live/enews/index.m3u8
+无线新闻,https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
+凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
+美亚电影,https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
+翡翠台,https://live.tvfix.org/live/jade/index.m3u8
+凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
+天映经典,https://live.tvfix.org/live/tyjd/index.m3u8
+凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8
+凤凰资讯,https://live.tvfix.org/live/fwzx/index.m3u8
+凤凰咨询,https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8
+CCTV-1高清,https://live.tvfix.org/live/cctv1hd/index.m3u8
+ROCK Action,https://live.tvfix.org/live/rockac/index.m3u8
+18台赛马频道,https://live.tvfix.org/live/c18/index.m3u8
+tvbs新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
+中国电影频道,https://live.tvfix.org/live/cmc/index.m3u8
+东方卫视高清,https://live.tvfix.org/live/dfhd/index.m3u8
+FashionBox,https://live.tvfix.org/live/fashion/index.m3u8
+翡翠台,https://live.tvfix.org/live/jade/3/v700000/index.m3u8
+明珠台,https://live.tvfix.org/live/pearl/index.m3u8
+TVB Plus,https://live.tvfix.org/live/tvbplus/index.m3u8
+18赛马,https://live.tvfix.org/live/c18/4/v200000/index.m3u8
+tvbplus,https://live.tvfix.org/live/tvbplus/2/v4000000/index.m3u8
+Nick Jr,https://live.tvfix.org/live/nickjr/index.m3u8
+popc,https://live.tvfix.org/live/popc/2/v4000000/index.m3u8
+PopC,https://live.tvfix.org/live/popc/index.m3u8
+AXN,https://live.tvfix.org/live/axn/index.m3u8
+Global Trekker,https://live.tvfix.org/live/trekker/index.m3u8
+Mezzo Live HD,https://live.tvfix.org/live/mezzon/index.m3u8
+凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
+天映经典,https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
+創世頻道,https://live.tvfix.org/live/chuangshi/index.m3u8
+ROCK综艺娱乐,https://live.tvfix.org/live/rockzy/index.m3u8
+娱乐新闻,https://live.tvfix.org/live/enews/1/v4000000/index.m3u8
+凤凰资讯,https://live.tvfix.org/live/fhzx/index.m3u8
+凤凰香港,https://live.tvfix.org/live/fhxg/index.m3u8
+CGTN纪录高清,https://live.tvfix.org/live/cgtndochd/index.m3u8
+无线亚洲,https://live.tvfix.org/live/tvbs/2/v4000000/index.m3u8
+Nickelodeon,https://live.tvfix.org/live/niko/index.m3u8
+SUPER Kids Channel,https://live.tvfix.org/live/kid/index.m3u8
+CGTN高清,https://live.tvfix.org/live/cgtnhd/index.m3u8
+明珠台,https://live.tvfix.org/live/pearl/1/v4000000/index.m3u8
+28赛马,https://live.tvfix.org/live/c28/2/v200000/index.m3u8
+ZooMoo,https://live.tvfix.org/live/zoo/index.m3u8
+KIX,https://live.tvfix.org/live/kix/index.m3u8
+28台AI智慧赛马频道,https://live.tvfix.org/live/c28/index.m3u8
+
+
+
+
 松09013,#genre#
 彩虹1臺,https://pan.jl8.top/view.php/9e4a1f1e0fa584932022c409e919b56f.mp4
 松视1,http://iptv.4666888.xyz/iptv.php?id=20143
@@ -35,6 +105,17 @@ JStar三级片,http://iptv.4666888.xyz/iptv.php?id=20159
 
 
 新港澳台6,#genre#
+松视1,http://devpulllive.xylink.com:80/live/3f27ceadaa156456e14cd951637e320f.flv
+松视2,http://devpulllive.xylink.com:80/live/0d0c7d8b96fc6a8486d3f8c14b648d36.flv
+松视3,http://devpulllive.xylink.com:80/live/b6fc149e0780b181029c2ddcb8cc95c1.flv
+e频道,http://devpulllive.xylink.com:80/live/54fe4640ec80cd3014307d3b98fa2863.flv
+K频道,http://devpulllive.xylink.com:80/live/18b0f88af5aed2ab4ca0e3c522105cd4.flv
+彩虹电影,http://devpulllive.xylink.com:80/live/2c376357aefe066dd12d464b2583e19f.flv
+潘多拉,http://devpulllive.xylink.com:80/live/4b5de6648c35e39094ca838a27cc4548.flv
+惊艳,http://devpulllive.xylink.com:80/live/8180640621f63c76c275c0dd28e447ca.flv
+香蕉,http://devpulllive.xylink.com:80/live/32b4f242caefddf82418e447ce6e131c.flv
+happy,http://devpulllive.xylink.com:80/live/f7e3a3efc7b060376c0e9d33100a6012.flv
+极限电影台,http://devpulllive.xylink.com:80/live/f1ace1da37a9e2179340b564e37371ce.flv
 Plus综合频临,http://t.061899.xyz/tl/js/js.php?id=tvbplus
 凤凰中文频临,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 凤凰资讯频临,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
@@ -10840,6 +10921,7 @@ X博士（美国恐怖片）,https://vip.lzcdn2.com/20220419/3815_e1d1a25a/index
 电锯惊魂2（美国恐怖片）,https://vip.lzcdn2.com/20220320/114_fda49280/index.m3u8
 电锯惊魂（美国恐怖片）,https://vip.lzcdn2.com/20220320/106_793772be/index.m3u8
 罪人（美国恐怖片）,https://vip1.lz-cdn1.com/20220317/173_dbf7c859/index.m3u8
+
 
 
 
