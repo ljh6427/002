@@ -15,6 +15,11 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ljh6427/002/main/189.txt"
         },
 
+        {
+            "name": "chegnren",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wwb521/live/main/video.json"
+        },
+
       
         {
             "name": "电视自用接口",
@@ -135,6 +140,7 @@
         }
            ]
 }
+
 
 
 
