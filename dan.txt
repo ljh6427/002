@@ -1,6 +1,27 @@
 {
     "urls": [
-        {
+        
+		{
+            "name": "ok杰克",
+            "url": "http://ok321.top/tv"
+        },
+		{
+            "name": "放牛娃",
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"
+        },
+		{
+            "name": "小米",
+            "url": "http://miqk.cc/小米/DEMO.json"
+        },
+		{
+            "name": "小盒子",
+            "url": "http://xhztv.top/xhz"
+        },
+		{
+            "name": "小盒子4k",
+            "url": "http://xhztv.top/4k.json"
+        },
+		{
             "name": "小片",
             "url": "https://pan.aa53.cn/down.php/d8430cd99d756b61aaa329b634ccfcb1.txt"
         },
@@ -140,6 +161,7 @@
         }
            ]
 }
+
 
 
 
