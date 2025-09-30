@@ -236,7 +236,7 @@ CCTV13-新闻,http://183.215.134.239:19901/tsfile/live/0013_1.m3u8?key=txiptv&pl
 
 
 
-綜合其他,#genre#
+4G綜合其他,#genre#
 民視第一台,http://45.196.239.180:39039/4gtv-4gtv003/index.m3u8?proxy=true
 民視台灣台,http://45.196.239.180:39039/4gtv-4gtv001/index.m3u8?proxy=true
 民視,http://45.196.239.180:39039/4gtv-4gtv002/index.m3u8?proxy=true
@@ -305,7 +305,7 @@ Nice TV 靖天歡樂台,http://45.196.239.180:39039/li-4gtv-4gtv054/index.m3u8?p
 
 
 
-電影戲劇,#genre#
+4G電影戲劇,#genre#
 中視經典台,http://45.196.239.180:39039/4gtv-4gtv080/index.m3u8?proxy=true
 ROCK Entertainment,http://45.196.239.180:39039/4gtv-live080/index.m3u8?proxy=true
 公視戲劇,http://45.196.239.180:39039/4gtv-4gtv042/index.m3u8?proxy=true
@@ -355,7 +355,7 @@ amc電影台,http://45.196.239.180:39039/li-4gtv-4gtv017/index.m3u8?proxy=true
 
 
 
-音樂綜藝,#genre#
+4G音樂儿童,#genre#
 八大綜藝台,http://45.196.239.180:39039/4gtv-4gtv039/index.m3u8?proxy=true
 TVBS精采台,http://45.196.239.180:39039/4gtv-4gtv067/index.m3u8?proxy=true
 愛爾達娛樂台,http://45.196.239.180:39039/4gtv-4gtv070/index.m3u8?proxy=true
@@ -379,13 +379,6 @@ TRACE Urban,http://45.196.239.180:39039/li-4gtv-4gtv082/index.m3u8?proxy=true
 Mezzo Live HD,http://45.196.239.180:39039/li-4gtv-4gtv083/index.m3u8?proxy=true
 CLASSICA 古典樂,http://45.196.239.180:39039/li-4gtv-4gtv059/index.m3u8?proxy=true
 八大精彩台,http://45.196.239.180:39039/li-4gtv-4gtv034/index.m3u8?proxy=true
-
-
-
-
-
-
-兒童卡通,#genre#
 LiveABC互動英語頻道,http://45.196.239.180:39039/4gtv-live030/index.m3u8?proxy=true
 達文西頻道,http://45.196.239.180:39039/4gtv-4gtv018/index.m3u8?proxy=true
 ELTV生活英語台,http://45.196.239.180:39039/litv-longturn20/index.m3u8?proxy=true
@@ -410,7 +403,7 @@ ELTV生活英語台,http://45.196.239.180:39039/of-litv-longturn20/index.m3u8?pr
 
 
 
-新聞財經,#genre#
+4G新聞財經,#genre#
 History 歷史頻道,http://45.196.239.180:39039/4gtv-live026/index.m3u8?proxy=true
 CI 罪案偵查頻道,http://45.196.239.180:39039/4gtv-live027/index.m3u8?proxy=true
 視納華仁紀實頻道,http://45.196.239.180:39039/4gtv-4gtv013/index.m3u8?proxy=true
@@ -479,7 +472,7 @@ VOA美國之音,http://45.196.239.180:39039/li-litv-ftv03/index.m3u8?proxy=true
 
 
 
-歐飛點播,#genre#
+4G歐飛點播,#genre#
 公視金獎台,http://45.196.239.180:39039/ofiii13/index.m3u8?proxy=true
 哆啦Ａ夢台,http://45.196.239.180:39039/ofiii22/index.m3u8?proxy=true
 新哆啦A夢(中文版),http://45.196.239.180:39039/ofiii23/index.m3u8?proxy=true
@@ -639,7 +632,7 @@ SiCAR愛車酷,http://45.196.239.180:39039/ofiii216/index.m3u8?proxy=true
 
 
 
-香港频道,#genre#
+SMT香港频道,#genre#
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
@@ -663,7 +656,6 @@ AstroAEC,http://php.jdshipin.com:8880/smt.php?id=AEC
 爱奇艺,http://php.jdshipin.com:8880/smt.php?id=Qiyi
 ASTROQUANJIA,http://php.jdshipin.com:8880/smt.php?id=Quanjia
 Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
-
 TVB翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn#http://101.35.240.114:88/live.php?id=翡翠台
 TVB無綫新聞台,https://lb1-live-mv.v2h-cdn.com/hls/fdca/tvbnews/tvbnews.m3u8#http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 TVB星河頻道,https://lb1-live-mv.v2h-cdn.com/hls/fddb/xinghe/xinghe.m3u8#http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:E5:D4:63&stream=153506&extension=ts&play_token=wyB6qEnZAe#http://mag.greatott.me:80/play/live.php?mac=00:1a:79:6c:7a:a4&stream=153506&extension=ts&play_token=7livGuQBaD#http://cdn9.163189.xyz/smt1.1.php?id=Xinhe#http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:32:C6:2F&stream=153506&extension=ts&play_token=fLGDAlFJ46
