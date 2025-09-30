@@ -1302,6 +1302,30 @@ Mleague,https://live.iill.top/youtube/@PRISONER1224
 
 
 测试频道,#genre#
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+中天新聞台,http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true
+翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+翡翠台2,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台3,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+凤凰资讯1,1http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
+凤凰资讯2,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯3,http://parking.treasureislandresortsworld.com:1001/hls/301/index.m3u8
+凤凰中文,http://171.213.142.217:1880/udp/239.93.0.162:2192
+凤凰中文1,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+无线新闻台1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+東森新聞台,http://152.32.229.52:5050/4gtv-4gtv152/index.m3u8?proxy=true
+龍華電影台,http://152.32.229.52:5050/litv-longturn03/index.m3u8?proxy=true
+亞太台,http://152.32.229.52:5050/4gtv-live050/index.m3u8?proxy=true
+NOW新闻台,http://cdn.163189.xyz/163189/now
+BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+CNN USA,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS HD1,http://iptv.4666888.xyz/iptv.php?id=20188
+凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰香港1,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
+靖洋戲劇台,http://152.32.229.52:5050/4gtv-4gtv045/index.m3u8?proxy=true
+美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 唐人卫视频道,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 美亚电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya#http://php.jdshipin.com/TVOD/iptv.php?id=meiya#http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 末日电影合集,http://43.138.0.72:35455/yy/1354889019
@@ -9601,3 +9625,4 @@ Z-108弃城（台湾恐怖片）,https://vip.lz-cdn17.com/20230612/15573_05723da
 夺命直播【粤语】（香港恐怖片）,https://vip.lz-cdn3.com/20220812/11274_199a4d75/index.m3u8
 校墓处【粤语】（香港恐怖片）,https://vip1.lz-cdn7.com/20230429/15693_3cd84629/index.m3u8
 鬼计【粤语】（香港恐怖片）,https://vip1.lz-cdn7.com/20230425/15611_ef656227/index.m3u8
+
