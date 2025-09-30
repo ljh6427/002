@@ -211,9 +211,21 @@ taiwan+,http://iptv.4666888.xyz/iptv2A.php?id=159
 CCTV1-综合,http://183.215.134.239:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://183.215.134.239:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3-综艺,http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4中文国际,http://183.215.134.239:19901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5体育,http://183.215.134.239:19901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://183.215.134.239:19901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6电影,http://183.215.134.239:19901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7国防军事,http://183.215.134.239:19901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8-电视剧,http://183.215.134.239:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9纪录,http://183.215.134.239:19901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10科教,http://183.215.134.239:19901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11戏剧,http://183.215.134.239:19901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12社会与法,http://183.215.134.239:19901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13-新闻,http://183.215.134.239:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14少儿,http://183.215.134.239:19901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15音乐,http://183.215.134.239:19901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16奥运,http://183.215.134.239:19901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17农业农村,http://183.215.134.239:19901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://183.215.134.239:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南经视,http://183.215.134.239:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南都市,http://183.215.134.239:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -228,6 +240,7 @@ CCTV13-新闻,http://183.215.134.239:19901/tsfile/live/0013_1.m3u8?key=txiptv&pl
 江西卫视,http://183.215.134.239:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南教育,http://183.215.134.239:19901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 潇湘电影,http://183.215.134.239:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 
@@ -9625,4 +9638,5 @@ Z-108弃城（台湾恐怖片）,https://vip.lz-cdn17.com/20230612/15573_05723da
 夺命直播【粤语】（香港恐怖片）,https://vip.lz-cdn3.com/20220812/11274_199a4d75/index.m3u8
 校墓处【粤语】（香港恐怖片）,https://vip1.lz-cdn7.com/20230429/15693_3cd84629/index.m3u8
 鬼计【粤语】（香港恐怖片）,https://vip1.lz-cdn7.com/20230425/15611_ef656227/index.m3u8
+
 
