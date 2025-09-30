@@ -1310,6 +1310,7 @@ Mleague,https://live.iill.top/youtube/@PRISONER1224
 
 
 测试频道,#genre#
+唐人卫视频道,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 美亚电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya#http://php.jdshipin.com/TVOD/iptv.php?id=meiya#http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 末日电影合集,http://43.138.0.72:35455/yy/1354889019
 韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
@@ -9571,3 +9572,4 @@ Z-108弃城（台湾恐怖片）,https://vip.lz-cdn17.com/20230612/15573_05723da
 夺命直播【粤语】（香港恐怖片）,https://vip.lz-cdn3.com/20220812/11274_199a4d75/index.m3u8
 校墓处【粤语】（香港恐怖片）,https://vip1.lz-cdn7.com/20230429/15693_3cd84629/index.m3u8
 鬼计【粤语】（香港恐怖片）,https://vip1.lz-cdn7.com/20230425/15611_ef656227/index.m3u8
+
