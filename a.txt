@@ -1,3 +1,34 @@
+特区酒店,#genre#
+Plus综合频高,http://php.jdshipin.com/PLTV/iptv.php?id=j2
+TVBJ1美频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbj1
+凤凰中文频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
+凤凰资讯频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
+凤凰香港频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
+有线综合粤高,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
+有线综合国高,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
+无线新闻频高,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
+无线翡翠频4k,http://php.jdshipin.com/PLTV/iptv.php?id=fct4
+无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
+无线翡翠频高,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
+无线翡翠频标,http://php.jdshipin.com/PLTV/iptv.php?id=fct
+无线华丽国标,http://php.jdshipin.com/PLTV/iptv.php?id=huali
+无线明珠粤高,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
+无线明珠频标,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
+无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
+无线千禧频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
+美亚电影频标,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
+VIUTV粤频标,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
+RTHK-31频高,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
+RTHK-32频高,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
+AstroRio频标,http://php.jdshipin.com/PLTV/iptv.php?id=aod
+澳门Mac频高,http://php.jdshipin.com/PLTV/iptv.php?id=as
+澳视澳门频高,http://php.jdshipin.com/PLTV/iptv.php?id=asam
+重温经典频高,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
+
+
+
+
 SMT-香港,#genre#
 翡翠台,https://smt.passwdword.xyz/Smart.php?id=jade_twn
 翡翠台,https://smt.passwdword.xyz/Smart.php?id=Jade_xue
@@ -8920,6 +8951,7 @@ AI-关晓彤-记录性福的一天,https://v8.lj20250710new.com/20250814/n3L8qWp
 AI-关晓彤-性感女上司的性爱诱惑下,https://v8.lj20250710new.com/20250814/gih0ICak/2000kb/hls/index.m3u8
 AI换脸范冰冰1,https://krevonix.com/20250807/AhST8fsG/2000kb/hls/index.m3u8
 AI换脸韩雪性感巨乳诱惑激情性爱中出,https://b.v155p.com/20250819/QXbSVwKY/2000kb/hls/index.m3u8
+
 
 
 
