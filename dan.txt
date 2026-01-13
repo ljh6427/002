@@ -24,11 +24,7 @@
             "name": "小盒子4k",
             "url": "http://xhztv.top/4k.json"
         },
-		{
-            "name": "小片",
-            "url": "https://pan.aa53.cn/down.php/d8430cd99d756b61aaa329b634ccfcb1.txt"
-        },
-
+		
         {
             "name": "南风接口",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
@@ -50,11 +46,7 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json"
         },
 
-        {
-            "name": "刘公子",
-            "url": "https://my5353.com/liugongzi"
-        },
-		
+        		
 		{
             "name": "成人",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json"
@@ -89,11 +81,7 @@
             "url": "http://hello.肥猫.com"
         },
 		
-		{
-            "name": "粉丝自制",
-            "url": "https://codeberg.org/mzjk0/api/raw/branch/main/vip.json"
-        },
-		
+				
 	    {
             "name": "巧儿",
             "url": "http://pandown.pro/tvbox/tvbox.json"
@@ -110,56 +98,22 @@
             "url": "http://ficfac.com/tv/box.json"
         },
 
-        {
-            "name": "毒盒",
-            "url": "https://tv.youdu.fan:666/毒盒影视/"
-        },
-
-                      
-        {
-            "name": "道长接口",
-            "url": "https://cdn.gitmirror.com/bb/xduo/libs/master/index.json"
-        },
-        
-        
-		{
-            "name": "挺好接口",
-            "url": "https://ztha.top/TVBox/thdjk.json"
-        },
-		
-
-		
-		{
-          "name": "刘公子备",
-          "url": "https://gh-proxy.com/https://gitlab.com/ljh6427/ljh/-/raw/main/liudan.txt"
-        },
-		
-
         
 		{
           "name": "王二小",
           "url": "http://tvbox.王二小放牛娃.top"
         },
 		
-		{
-          "name": "音乐",
-          "url": "https://git.acwing.com/wuhui/huas/-/raw/main/jfylx.json"
-        },
-		{
-          "name": "音乐备份",
-          "url": "https://gh-proxy.com/https://gitlab.com/ljh6427/ljh/-/raw/main/yinyue.txt"
-        },
+
 		
 		{
             "name": "饭太硬接口",
             "url": "http://www.饭太硬.com/tv"
-        },
-		{
-            "name": "公子仓",
-            "url": "https://gzc.lzo.publicvm.com/cangku.json"
         }
+		
            ]
 }
+
 
 
 
