@@ -1,6 +1,4 @@
 特区酒店,#genre#
-Plus综合频高,http://php.jdshipin.com/PLTV/iptv.php?id=j2
-TVBJ1美频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbj1
 凤凰中文频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰资讯频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰香港频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
@@ -25,101 +23,49 @@ AstroRio频标,http://php.jdshipin.com/PLTV/iptv.php?id=aod
 澳门Mac频高,http://php.jdshipin.com/PLTV/iptv.php?id=as
 澳视澳门频高,http://php.jdshipin.com/PLTV/iptv.php?id=asam
 重温经典频高,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
-
-
-
-
-
-
-临时测试,#genre#
+TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
 台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 台视新闻HD,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台视新闻HD1,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 Tennis Channel,https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 PRO TV HD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-TV Cinec,https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
 NOW新闻台,http://cdn.163189.xyz/163189/now
-三立新聞iNEWS,http://152.32.229.52:5050/4gtv-live089/index.m3u8?proxy=true
 時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 時尚台FTV1,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡中文台1,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-凤凰资讯1,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
-凤凰资讯2,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰中文1,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文3,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰香港1,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
-凤凰香港3,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
-TVB无线新闻1,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线华丽台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-经典功夫,#genre#
-
 经典电影轮播,rtmp://live.gxrb.com.cn/pull/red_movies_0501
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+翡翠台2,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台3,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+CNN USA,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+唐人卫视频道,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
+末日电影合集,http://43.138.0.72:35455/yy/1354889019
+韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
+无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+苏州电影娱乐信息,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+影渣好剧,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 私人影院,P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
-
-
-
 星光怀旧台,http://data.3g.yy.com/live/hls/1354936134/1354936134.m3u8
-千禧经典台,https://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
-千禧经典台,https://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
-天映频道,https://cdn9.163189.xyz/smt1.1.php?id=Celestial
-天映频道,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
-天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
-天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
-天映经典,https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
-天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
-爱奇艺,https://cdn9.163189.xyz/smt1.1.php?id=Qiyi
-爱奇艺,https://cdn9.163189.xyz/smt3.1.1.php?id=Qiyi
-爱奇艺,http://php.jdshipin.com:8880/smt.php?id=Qiyi
-私人影院,P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
-天经经典,http://php.jdshipin.com/smt.php?id=Celestial2
-爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 AstroAod,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-
 星河剧集22,https://live.ottiptv.cc/douyu/9388938
-
-
 古装妖魔,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
 军旅剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_700_1080P_t10/c54_fast_700_1080P_t10.m3u8?d
-抗战剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_884_1080P_t10/c54_fast_884_1080P_t10.m3u8?d
-谍战剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57_fast_882_1080P_t10/c57_fast_882_1080P_t10.m3u8?d
-红色剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c60_fast_1049_1080P_t10/c60_fast_1049_1080P_t10.m3u8?d
 家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
 泰语剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
 搞笑剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_953_1080P_t10/c58_fast_953_1080P_t10.m3u8?d
 传奇剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_1052_1080P_t10/c54_fast_1052_1080P_t10.m3u8?d
-青春剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_986_1080P_t10/c58_fast_986_1080P_t10.m3u8?d
-欢乐剧场,http://lvbdcdncmn.inter.ptqy.gitv.tv/tslive/c56_fast_951_1080P_t10/c56_fast_951_1080P_t10.m3u8?d
-青春剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_986_1080P_t10/c58_fast_986_1080P_t10.m3u8?d
-甜宠剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_877_1080P_t10/c54_fast_877_1080P_t10.m3u8?d
 大家剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_975_1080P_t10/c58_fast_975_1080P_t10.m3u8?d
-警匪悬疑,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_880_1080P_t10/c58_fast_880_1080P_t10.m3u8?d
-古装大剧,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_879_1080P_t10/c55_fast_879_1080P_t10.m3u8?d
-乡村生活,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1050_1080P_t10/c59_fast_1050_1080P_t10.m3u8?d
-怀旧年代,http://lvbdcdncmn.inter.ptqy.gitv.tv/tslive/c59_fast_1134_1080P_t10/c59_fast_1134_1080P_t10.m3u8?d
 爱情生活,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
 乡村大剧,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_958_1080P_t10/c58_fast_95
 
@@ -304,85 +250,6 @@ Mleague,https://live.iill.top/youtube/@PRISONER1224
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-测试频道,#genre#
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-中天新聞台,http://152.32.229.52:5050/4gtv-4gtv009/index.m3u8?proxy=true
-翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-翡翠台2,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台3,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-東森新聞台,http://152.32.229.52:5050/4gtv-4gtv152/index.m3u8?proxy=true
-龍華電影台,http://152.32.229.52:5050/litv-longturn03/index.m3u8?proxy=true
-亞太台,http://152.32.229.52:5050/4gtv-live050/index.m3u8?proxy=true
-NOW新闻台,http://cdn.163189.xyz/163189/now
-BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-CNN USA,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
-TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS HD1,http://iptv.4666888.xyz/iptv.php?id=20188
-凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰香港1,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
-靖洋戲劇台,http://152.32.229.52:5050/4gtv-4gtv045/index.m3u8?proxy=true
-美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-唐人卫视频道,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
-美亚电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya#http://php.jdshipin.com/TVOD/iptv.php?id=meiya#http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-末日电影合集,http://43.138.0.72:35455/yy/1354889019
-韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
-CHC影迷电影,http://113.195.172.192:808/hls/112/index.m3u8
-CHC家庭影院,http://113.195.172.192:808/hls/113/index.m3u8
-CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8
-无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-千禧经典,http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
-千禧经典,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
-香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-经典影视台,http://huanqiuzhibo.cn/manifest/douyu.php?id=6091425
-苏州电影娱乐信息,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
-经典电影轮播,rtmp://live.gxrb.com.cn/pull/red_movies_0501
-音悦喵点歌台,http://huanqiuzhibo.cn/manifest/douyu.php?id=3870925
-阿7点歌台,http://huanqiuzhibo.cn/manifest/douyu.php?id=3186217
-7师傅音乐台,http://huanqiuzhibo.cn/manifest/douyu.php?id=17732
-韩音音乐,http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
-韩音时代音乐台,http://huanqiuzhibo.cn/manifest/douyu.php?id=329667
-未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
-影渣好剧,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
-香港功夫台,http://huanqiuzhibo.cn/manifest/douyu.php?id=9548850
-绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-绍兴文化影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 央卫极速,#genre#
 CCTV-1综合,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
 CCTV-2财经,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
@@ -558,39 +425,23 @@ CHC影迷电影,http://cdn6.bkpcp.top/tl/tuiliu.php?id=ymdy
 聊斋第73集,https://vip1.lz-cdn8.com/20220813/21406_a08a2be7/1000k/hls/mixed.m3u8
 聊斋第74集,https://vip1.lz-cdn8.com/20220813/21407_b3bf66f3/1000k/hls/mixed.m3u8
 聊斋第75集,https://vip1.lz-cdn8.com/20220813/21408_a766595f/1000k/hls/mixed.m3u8
+西游记续集-1,https://play.subokk.com/play/mepQ6jVa/index.m3u8
+西游记续集-2,https://vip.ffzy-play10.com/20230125/19095_c4c63e70/index.m3u8
+西游记续集-3,https://vip.ffzy-play10.com/20230125/19090_07f4d49c/index.m3u8
+西游记续集-4,https://vip.ffzy-play10.com/20230125/19091_662380f9/index.m3u8
+西游记续集-5,https://vip.ffzy-play10.com/20230125/19092_ab5c1309/index.m3u8
+西游记续集-6,https://vip.ffzy-play10.com/20230125/19093_589f9645/index.m3u8
+西游记续集-7,https://vip.ffzy-play10.com/20230125/19100_e47fcb1f/index.m3u8
+西游记续集-8,https://vip.ffzy-play10.com/20230125/19101_36ceeefd/index.m3u8
+西游记续集-9,https://vip.ffzy-play10.com/20230125/19096_76b42623/index.m3u8
+西游记续集-10,https://vip.ffzy-play10.com/20230125/19094_5ea4c56a/index.m3u8
+西游记续集-11,https://vip.ffzy-play10.com/20230125/19099_c7376415/index.m3u8
+西游记续集-12,https://vip.ffzy-play10.com/20230125/19097_5b3b9560/index.m3u8
+西游记续集-13,https://vip.ffzy-play10.com/20230125/19098_87f6a736/index.m3u8
+西游记续集-14,https://vip.ffzy-play10.com/20230125/19102_f2ef4ab0/index.m3u8
+西游记续集-15,https://vip.ffzy-play10.com/20230125/19104_16fbb6b2/index.m3u8
+西游记续集-16,https://vip.ffzy-play10.com/20230125/19103_bde5805b/index.m3u8
 
-西游记续集- 1
-https://play.subokk.com/play/mepQ6jVa/index.m3u8
-西游记续集-2
-https://vip.ffzy-play10.com/20230125/19095_c4c63e70/index.m3u8
-西游记续集-3
-https://vip.ffzy-play10.com/20230125/19090_07f4d49c/index.m3u8
-西游记续集-4
-https://vip.ffzy-play10.com/20230125/19091_662380f9/index.m3u8
-西游记续集-5
-https://vip.ffzy-play10.com/20230125/19092_ab5c1309/index.m3u8
-西游记续集-6
-https://vip.ffzy-play10.com/20230125/19093_589f9645/index.m3u8
-西游记续集-7
-https://vip.ffzy-play10.com/20230125/19100_e47fcb1f/index.m3u8
-西游记续集-8
-https://vip.ffzy-play10.com/20230125/19101_36ceeefd/index.m3u8
-西游记续集-9
-https://vip.ffzy-play10.com/20230125/19096_76b42623/index.m3u8
-西游记续集-10
-https://vip.ffzy-play10.com/20230125/19094_5ea4c56a/index.m3u8
-西游记续集-11
-https://vip.ffzy-play10.com/20230125/19099_c7376415/index.m3u8
-西游记续集-12
-https://vip.ffzy-play10.com/20230125/19097_5b3b9560/index.m3u8
-西游记续集-13
-https://vip.ffzy-play10.com/20230125/19098_87f6a736/index.m3u8
-西游记续集-14
-https://vip.ffzy-play10.com/20230125/19102_f2ef4ab0/index.m3u8
-西游记续集-15
-https://vip.ffzy-play10.com/20230125/19104_16fbb6b2/index.m3u8
-西游记续集-16
-https://vip.ffzy-play10.com/20230125/19103_bde5805b/index.m3u8
 
 
 
@@ -723,7 +574,6 @@ CCTV老故事,http://t.061899.xyz/tl/dq.php?id=lgs
 CETV 1 中国教育,http://t.061899.xyz/tl/dq.php?id=cetv1
 CETV 2 中国教育,http://t.061899.xyz/tl/dq.php?id=cetv2
 CETV 4 中国教育,http://t.061899.xyz/tl/dq.php?id=cetv4
-
 湖南卫视,http://t.061899.xyz/tl/dq.php?id=hunws
 北京卫视,http://t.061899.xyz/tl/dq.php?id=bjws
 浙江卫视,http://t.061899.xyz/tl/dq.php?id=zjws
@@ -804,8 +654,6 @@ BRTV新闻,http://t.061899.xyz/tl/dq.php?id=bjxw
 凤凰中文,http://t.061899.xyz/tl/dq.php?id=fhzw
 凤凰资讯,http://t.061899.xyz/tl/dq.php?id=fhzx
 凤凰香港,http://t.061899.xyz/tl/dq.php?id=fhhk
-
-
 CCTV1综合,http://t.061899.xyz/tl/tl.php?id=cctv1
 CCTV2财经,http://t.061899.xyz/tl/tl.php?id=cctv2
 CCTV3综艺,http://t.061899.xyz/tl/tl.php?id=cctv3
@@ -824,7 +672,6 @@ CCTV14少儿,http://t.061899.xyz/tl/tl.php?id=cctv14
 CCTV15音乐,http://t.061899.xyz/tl/tl.php?id=cctv15
 CCTV16奥运,http://t.061899.xyz/tl/tl.php?id=cctv16
 CCTV17农业农村,http://t.061899.xyz/tl/tl.php?id=cctv17
-
 浙江卫视,http://t.061899.xyz/tl/tl.php?id=zjws
 广东卫视,http://t.061899.xyz/tl/tl.php?id=gdws
 江苏卫视,http://t.061899.xyz/tl/tl.php?id=jsws
@@ -902,7 +749,6 @@ CCTV-15,http://61.184.46.85:9901/tsfile/live/0015_1.m3u8?key=txiptv$tsfile
 浙江卫视,http://61.184.46.85:9901/tsfile/live/1007_1.m3u8?key=txiptv$tsfile
 重庆卫视,http://61.184.46.85:9901/tsfile/live/1015_1.m3u8?key=txiptv$tsfile
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-
 北京卫视4k,http://zb.hmysapp.cn:801/dft/beijing/beijing.php?id=bjws4k
 BRTV文艺,http://zb.hmysapp.cn:801/dft/beijing/beijing.php?id=bjwy
 BRTV纪实科教,http://zb.hmysapp.cn:801/dft/beijing/beijing.php?id=bjjs
@@ -1086,35 +932,12 @@ CHC动作,http://110.42.63.57:1222/live/miguHD.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%9
 
 
 特色频道,#genre#
-
 无线星河粤标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 无线功夫粤标,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
 凤凰电影频标,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 星空电影频高,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
 星空音乐频标,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
 星空卫视频标,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
-凤凰中文频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
-凤凰资讯频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
-凤凰香港频高,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
-有线综合粤高,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
-有线综合国高,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
-无线新闻频高,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
-无线翡翠频标,http://php.jdshipin.com/PLTV/iptv.php?id=fct
-无线华丽国标,http://php.jdshipin.com/PLTV/iptv.php?id=huali
-无线明珠粤高,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
-无线明珠频标,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
-无线娱乐频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
-无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
-无线星河频标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
-美亚电影频标,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
-VIUTV粤频标,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
-RTHK-31频高,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
-RTHK-32频高,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
-AstroRio频标,http://php.jdshipin.com/PLTV/iptv.php?id=aod
-澳门Mac频高,http://php.jdshipin.com/PLTV/iptv.php?id=as
-澳视澳门频高,http://php.jdshipin.com/PLTV/iptv.php?id=asam
-重温经典频高,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 小红书,https://sns-video-hs.xhscdn.com/stream/79/110/114/01e863b661493b5b4f03700197c5855452_114.mp4
 一笑江湖,https://vd3.bdstatic.com/mda-pdrbhxpcn5ykbmvq/360p/h264/1682496744172478479/mda-pdrbhxpcn5ykbmvq.mp4?auth_key=1751803268-0-0-39c4cd1ed419d52e6611cf6d6de55d4e&bcevod_channel=searchbox_feed&pd=1&cr=0&cd=0&pt=4&logid=0068150683&vid=6095000335530420424#https://vd2.bdstatic.com/mda-pb14631emy5808f0/cae_h264/1675309114857562179/mda-pb14631emy5808f0.mp4?auth_key=1751803306-0-0-f0699f1736b8e6ad1281e172ee9754ac&bcevod_channel=searchbox_feed&pd=1&cr=0&cd=0&pt=4&logid=0106230071&vid=6016181578148765226#https://vd2.bdstatic.com/mda-remjqqnx8rg3pv86/hd/cae_h264/1747923962300428158/mda-remjqqnx8rg3pv86.mp4?auth_key=1751803335-0-0-d2c54d46539fe8f84c687e025a8ee895&bcevod_channel=searchbox_feed&pd=1&cr=1&cd=0&pt=4&logid=0135491966&vid=2839599185404877483&abtest=all
 半岛铁盒,https://vd2.bdstatic.com/mda-rbt17u1ib4icnprk/576p/h264/1740704212139553147/mda-rbt17u1ib4icnprk.mp4?auth_key=1751803366-0-0-379a067d170a699ca3fb4c71e3ce00fe&bcevod_channel=searchbox_feed&pd=1&cr=1&cd=0&pt=4&logid=0166484555&vid=6486476670156286956&abtest=all
@@ -1144,7 +967,6 @@ CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
-
 YMG未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 经典电影轮播,rtmp://live.gxrb.com.cn/pull/red_movies_0501
@@ -1152,12 +974,10 @@ YMG未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 苏州电影娱乐信息,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 TVB plus,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-
 Astr剧集台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 经典剧场,http://lxajh.top/tv/douyu.php?id=4246519
 龙华戏剧http://122.117.71.103:8533/龙华戏剧.m3u8
-
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 星空国际,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
@@ -1166,10 +986,8 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 搜狐剧场,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 台視新聞台,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
-
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 绍兴文化影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
-
 传奇剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_1052_720P_t10/c54_fast_1052_720P_t10.m3u8?d
 抗战剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_884_720P_t10/c54_fast_884_720P_t10.m3u8?d
 谍战剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_882_720P_t10/c57_fast_882_720P_t10.m3u8?d
@@ -7117,3 +6935,4 @@ AI换脸韩雪性感巨乳诱惑激情性爱中出,https://b.v155p.com/20250819/
 巨乳的疑惑1993年,https://hd.ijycnd.com/play/6dBgvmYe/index.m3u8
 色慾怪談之魔姦淫者2000年,https://hd.ijycnd.com/play/neg51GZb/index.m3u8
 絕色網吧2003年,https://vip.ffzy-online1.com/20240830/54782_5e344078/2000k/hls/mixed.m3u8
+
