@@ -55,6 +55,12 @@
             "name": "暮雨整合",
             "url": "https://4key.cn/ule"
         },
+		
+		{
+            "name": "私人VIP",
+            "url": "https://pan.wdrjk.top/down.php/cbbb55915590d31cbf8bd45b371a0438.txt"
+        },
+		
         {
             "name": "18",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ljh6427/002/main/18.txt"
