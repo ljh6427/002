@@ -51,7 +51,10 @@
             "name": "成人",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json"
         },
-
+        {
+            "name": "暮雨整合",
+            "url": "https://4key.cn/ule"
+        },
         {
             "name": "18",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ljh6427/002/main/18.txt"
@@ -113,12 +116,3 @@
 		
            ]
 }
-
-
-
-
-
-
-
-
-
