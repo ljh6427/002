@@ -56,10 +56,6 @@
             "url": "https://4key.cn/ule"
         },
 		
-		{
-            "name": "私人VIP",
-            "url": "https://pan.wdrjk.top/down.php/cbbb55915590d31cbf8bd45b371a0438.txt"
-        },
 		
         {
             "name": "18",
@@ -122,3 +118,4 @@
 		
            ]
 }
+
