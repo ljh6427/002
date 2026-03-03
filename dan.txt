@@ -32,7 +32,10 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json"
         },
 
-        		
+        {
+            "name": "小白兔se接口",
+            "url": "http://ko.zoho.to//ii/鬼才哥.txt"
+        },		
 		{
             "name": "成人",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json"
