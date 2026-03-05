@@ -35,7 +35,13 @@
         {
             "name": "小白兔se接口",
             "url": "http://ko.zoho.to//ii/鬼才哥.txt"
-        },		
+        },
+
+		{
+            "name": "海马se接口",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/%E6%B5%B7%E9%A9%AC%E5%BD%B1%E8%A7%86"
+        },
+		
 		{
             "name": "成人",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json"
@@ -102,3 +108,4 @@
 		
            ]
 }
+
