@@ -69,6 +69,10 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ljh6427/002/main/18.txt"
         },
 
+		{
+            "name": "20",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ljh6427/002/main/20.txt"
+        },
 
 		
 		{
@@ -120,5 +124,6 @@
 		
            ]
 }
+
 
 
