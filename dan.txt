@@ -9,6 +9,12 @@
             "name": "313接口",
             "url": "https://gitee.com/hu-congrong/ltcw/raw/main/313.json"
         },
+		
+		{
+            "name": "裤佬接口",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2"
+        },
+		
 		{
             "name": "软件小哥哥",
             "url": "http://47.96.82.41:5188/svip/svip.json"
@@ -34,14 +40,15 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json"
         },
 		
-		{
-            "name": "chegnren",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wwb521/live/main/video.json"
-        },
-
+		
         {
             "name": "鬼才哥se接口",
             "url": "http://ko.zoho.to//ii/鬼才哥.txt"
+        },
+		
+		{
+            "name": "精品fun接口",
+            "url": "https://clun.top/fun.json"
         },
 
         {
@@ -72,6 +79,11 @@
 		{
             "name": "20",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ljh6427/002/main/20.txt"
+        },
+		
+		{
+            "name": "chegnren",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wwb521/live/main/video.json"
         },
 
 		
