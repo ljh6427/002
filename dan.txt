@@ -24,12 +24,7 @@
             "name": "放牛娃",
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"
         },
-		{
-            "name": "小米",
-            "url": "http://miqk.cc/小米/DEMO.json"
-        },
-
-		
+				
         {
             "name": "南风接口",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
