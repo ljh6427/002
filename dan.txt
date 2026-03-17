@@ -31,6 +31,10 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json"
         },
 		
+		{
+            "name": "一个大叔se接口",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/xmm.json"
+        },
 		
         {
             "name": "鬼才哥se接口",
