@@ -6,11 +6,6 @@
         },
 		
 		{
-            "name": "tvbox编辑",
-            "url": "https://bitbucket.org/xduo/cool/raw/main/room.json"
-        },
-		
-		{
             "name": "313接口",
             "url": "https://gitee.com/hu-congrong/ltcw/raw/main/313.json"
         },
