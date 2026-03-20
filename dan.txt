@@ -32,8 +32,8 @@
         },
 		
 		{
-            "name": "一个大叔se接口",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/xmm.json"
+            "name": "魅蓝se接口",
+            "url": "https://pan.meil.wang/f/8yaF0/catvodse.json"
         },
 		
         {
@@ -75,6 +75,11 @@
 		{
             "name": "chegnren",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wwb521/live/main/video.json"
+        },
+		
+		{
+            "name": "一个大叔se接口",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/xmm.json"
         },
 
 
