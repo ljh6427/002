@@ -32,6 +32,15 @@
         },
 		
 		{
+            "name": "KVIDOse接口",
+            "url": "https://gh-proxy.com/https://github.com/puppet680/KVideo-config/blob/21b1424da895929bf96cfb702ae25c14b65cdff6/adult.json"
+        },
+		
+		{
+            "name": "福利se接口",
+            "url": "http://ko.zoho.to/ii/%E7%A6%8F%E5%88%A9.json"
+        },
+		{
             "name": "魅蓝se接口",
             "url": "https://pan.meil.wang/f/8yaF0/catvodse.json"
         },
