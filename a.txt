@@ -967,7 +967,7 @@ inbm证券服务频道[1280*720],https://hlss.gstv.com.cn:443/se0rch/20sv46.m3u8
 赣榆综合频道[720*576],https://ganyu-tv-hls.cm.jstv.com:443/ganyu-tv/ganyutv.m3u8
 赣榆综合广播[1152*720],https://ganyu-tv-hls.cm.jstv.com:443/ganyu-tv/ganyufm.m3u8
 江阴[1024*576],https://litchi-play-encrypted.jstv.com:443/live/jiangyin.m3u8?txSecret=8eb2b403356d1449789d0b419aec5d3a&txTime=1757381942
-午夜影视8888,#genre#
+
 
 
 
@@ -2307,7 +2307,6 @@ Wen,https://tv1288.xyz/douyin.php?type=rid&rid=164347568
 
 
 特色频道,#genre#
-🛸[三网]NewTV直播,#genre#
 NewTV古装剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
 NewTV军旅剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_700_1080P_t10/c54_fast_700_1080P_t10.m3u8?d
 NewTV家庭剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_999_1080P_t10.m3u8?d
