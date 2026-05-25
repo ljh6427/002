@@ -1,6 +1,12 @@
 {
     "urls": [
        
+		
+		{
+            "name": "裤佬接口",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2"
+        },
+		
 		{
             "name": "饭太硬接口",
             "url": "http://www.饭太硬.cc/tv"
@@ -11,11 +17,7 @@
           "url": "http://tvbox.王二小放牛娃.top"
         },
 		
-
-		{
-            "name": "裤佬接口",
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg2"
-        },
+	
 		
 		{
             "name": "软件小哥哥",
