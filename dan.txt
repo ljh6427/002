@@ -32,10 +32,6 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ryu989/tvbox/main/cj18.json"
         },
 		
-		{
-            "name": "KVIDOse接口",
-            "url": "https://gh-proxy.com/https://github.com/puppet680/KVideo-config/blob/21b1424da895929bf96cfb702ae25c14b65cdff6/adult.json"
-        },
 		
 		{
             "name": "福利se接口",
@@ -83,12 +79,6 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wwb521/live/main/video.json"
         },
 		
-		{
-            "name": "一个大叔se接口",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/xmm.json"
-        },
-
-
 
 		
 				
@@ -114,7 +104,7 @@
 		
 		{
             "name": "饭太硬接口",
-            "url": "http://www.饭太硬.com/tv"
+            "url": "http://www.饭太硬.cc/tv"
         }
 		
            ]
