@@ -28,10 +28,14 @@
         },
 		
 		{
+            "name": "刘公子se",
+            "url": "https://my5353.com/liugongzi"
+        },
+		
+		{
             "name": "TVBOXcj18se",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ryu989/tvbox/main/cj18.json"
         },
-		
 		
 		{
             "name": "福利se接口",
