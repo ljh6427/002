@@ -28,6 +28,11 @@
         },
 		
 		{
+            "name": "18caijise",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xwyjc/yuanwango/main/18caiji.json"
+        },
+		
+		{
             "name": "刘公子se",
             "url": "https://my5353.com/liugongzi"
         },
