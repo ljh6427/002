@@ -38,6 +38,11 @@
         },
 		
 		{
+            "name": "catcrse",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json"
+        },
+		
+		{
             "name": "TVBOXcj18se",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ryu989/tvbox/main/cj18.json"
         },
