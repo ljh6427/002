@@ -33,6 +33,11 @@
         },
 		
 		{
+            "name": "海豚se",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/海豚影视.json"
+        },
+		
+		{
             "name": "刘公子se",
             "url": "https://my5353.com/liugongzi"
         },
