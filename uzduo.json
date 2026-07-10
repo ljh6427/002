@@ -1,0 +1,28 @@
+{
+  "urls": [
+    {
+      "name": "dan",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ljh6427/002/main/dan.txt"
+    },
+    {
+      "name": "多仓接口20260523",
+      "url": "https://pan.tenire.com/down.php/bc98383d013a17e39fe1a7892ba9c5b0.json"
+    },
+    {
+      "name": "陆城多仓",
+      "url": "https://jianhancloud.cn/lcys/lcysdxl.json"
+    },
+    {
+      "name": "软件小哥哥",
+      "url": "https://api.starlink.uno/api/298.json"
+    },
+    {
+      "name": "19",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ljh6427/002/main/19.txt"
+    },
+    {
+      "name": "成人多仓备用",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ljh6427/002/main/chengren.txt"
+    }
+  ]
+}
