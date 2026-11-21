@@ -1,88 +1,4 @@
-港台央卫,#genre#
-CCTV1綜合,http://173.208.234.146/live/cctv1.m3u8
-CCTV2財經,http://173.208.234.146/live/cctv2.m3u8
-CCTV3綜藝,http://173.208.234.146/live/cctv3.m3u8
-CCTV4中文國際,http://173.208.234.146/live/cctv4.m3u8
-CCTV5體育,http://173.208.234.146/live/cctv5.m3u8
-CCTV6電影,http://173.208.234.146/live/cctv6.m3u8
-CCTV7國防軍事,http://173.208.234.146/live/cctv7.m3u8
-CCTV8電視劇,http://173.208.234.146/live/cctv8.m3u8
-CCTV9紀錄,http://173.208.234.146/live/cctv9.m3u8
-CCTV10科教,http://173.208.234.146/live/cctv10.m3u8
-CCTV11戲曲,http://173.208.234.146/live/cctv11.m3u8
-CCTV12社會與法,http://173.208.234.146/live/cctv12.m3u8
-CCTV13新聞,http://173.208.234.146/live/cctv13.m3u8
-CCTV14少兒,http://173.208.234.146/live/cctv14.m3u8
-CCTV15音樂,http://173.208.234.146/live/cctv15.m3u8
-CCTV16奧利匹克,http://173.208.234.146/live/cctv16.m3u8
-CCTV17農業農村,http://173.208.234.146/live/cctv17.m3u8
-CCTV5+體育賽事,http://173.208.234.146/live/cctv5p.m3u8
-湖南衛視,http://173.208.234.146/live/hnws.m3u8
-浙江衛視,http://173.208.234.146/live/zjws.m3u8
-江蘇衛視,http://173.208.234.146/live/jsws.m3u8
-東方衛視,http://173.208.234.146/live/dfws.m3u8
-大灣區衛視,http://173.208.234.146/live/nfws.m3u8
-CCTV5體育,http://173.208.234.146/live/cctv5.m3u8
-CCTV16奧林匹克,http://173.208.234.146/live/cctv16.m3u8
-CCTV5+體育賽事,http://173.208.234.146/live/cctv5p.m3u8
-廣東體育,http://173.208.234.146/live/gdty.m3u8
-廣東體育-grtn,http://173.208.234.146/live/gdtya.m3u8
-大灣區衛視,http://173.208.234.146/live/nfws.m3u8
-廣東珠江,http://173.208.234.146/live/gdzj.m3u8
-廣東體育,http://173.208.234.146/live/gdty.m3u8
-廣東新聞,http://173.208.234.146/live/gdxw.m3u8
-廣東民生,http://173.208.234.146/live/gdgg.m3u8
-廣東經濟科教,http://173.208.234.146/live/gdtvs1.m3u8
-廣東影視,http://173.208.234.146/live/gdtvs4.m3u8
-廣東少兒,http://173.208.234.146/live/gdtvs5.m3u8
-大灣區衛視(備),http://173.208.234.146/live/nfwsitv.m3u8
-廣東珠江(備),http://173.208.234.146/live/gdzjitv.m3u8
-大灣區衛視-grtn,http://173.208.234.146/live/nfwsa.m3u8
-廣東新聞-grtn,http://173.208.234.146/live/gdxwa.m3u8
-廣東珠江-grtn,http://173.208.234.146/live/gdzja.m3u8
-廣東體育-grtn,http://173.208.234.146/live/gdtya.m3u8
-廣東民生-grtn,http://173.208.234.146/live/gdgga.m3u8
-廣東4K超高清grtn,http://173.208.234.146/live/gdtvs3.m3u8
-廣東影視-grtn,http://173.208.234.146/live/gdtvs4a.m3u8
-廣東少兒-grtn,http://173.208.234.146/live/gdtvs5a.m3u8
-大灣區衛視(國際)-grtn,http://173.208.234.146/live/gdgj.m3u8
-廣東移動-grtn,http://173.208.234.146/live/gdyd.m3u8
-廣東嶺南戲曲-grtn,http://173.208.234.146/live/gdlncq.m3u8
-翡翠臺,http://173.208.234.146/live/jade.m3u8
-無線新聞臺,http://173.208.234.146/live/inews.m3u8
-Now新聞臺,http://173.208.234.146/live/nowxw.m3u8
-Now爆谷臺,http://173.208.234.146/live/nowbg.m3u8
-Now爆谷星影臺,http://173.208.234.146/live/nowxy.m3u8
-美亞電影臺粵語,http://173.208.234.146/live/mymovie.m3u8
-Popc,http://173.208.234.146/live/popc.m3u8
-HOY國際財經,http://173.208.234.146/live/hoy76.m3u8
-HOY TV,http://173.208.234.146/live/hoy77.m3u8
-HOY 資訊臺,http://173.208.234.146/live/hoy78.m3u8
-鳳凰中文臺,http://173.208.234.146/live/fhzw.m3u8
-鳳凰資訊臺,http://173.208.234.146/live/fhzx.m3u8
-鳳凰香港臺,http://173.208.234.146/live/fhxg.m3u8
-中視,http://173.208.234.146/live/ctv.m3u8
-中視新聞,http://173.208.234.146/live/ctvnews.m3u8
-中視經典,http://173.208.234.146/live/ctvjd.m3u8
-中視菁採,http://173.208.234.146/live/ctvjc.m3u8
-臺視,http://173.208.234.146/live/ttv.m3u8
-臺視新聞,http://173.208.234.146/live/ttvnews.m3u8
-臺視綜合,http://173.208.234.146/live/ttvzh.m3u8
-臺視財經,http://173.208.234.146/live/ttvcj.m3u8
-民視,http://173.208.234.146/live/ftv.m3u8
-民視新聞臺,http://173.208.234.146/live/ftvnews.m3u8
-民視臺灣臺,http://173.208.234.146/live/ftvtw.m3u8
-民視第一臺,http://173.208.234.146/live/ftvdy.m3u8
-華視,http://173.208.234.146/live/cts.m3u8
-華視新聞資訊,http://173.208.234.146/live/ctsnews.m3u8
-華視教育體育文化,http://173.208.234.146/live/ctsjy.m3u8
-公視,http://173.208.234.146/live/pts.m3u8
-公視臺語臺,http://173.208.234.146/live/ptsty.m3u8
-小公視,http://173.208.234.146/live/ptsse.m3u8
-中天新聞,http://173.208.234.146/live/ctinews.m3u8
-TVBS新聞臺,http://173.208.234.146/live/tvbsnews.m3u8
-東森新聞,http://173.208.234.146/live/ebcnews.m3u8
-三立新聞,http://173.208.234.146/live/setnews.m3u8
+
 
 
 
@@ -163,7 +79,34 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 
 
-
+CCTV1綜合,http://173.208.234.146/live/cctv1.m3u8
+CCTV2財經,http://173.208.234.146/live/cctv2.m3u8
+CCTV3綜藝,http://173.208.234.146/live/cctv3.m3u8
+CCTV4中文國際,http://173.208.234.146/live/cctv4.m3u8
+CCTV5體育,http://173.208.234.146/live/cctv5.m3u8
+CCTV6電影,http://173.208.234.146/live/cctv6.m3u8
+CCTV7國防軍事,http://173.208.234.146/live/cctv7.m3u8
+CCTV8電視劇,http://173.208.234.146/live/cctv8.m3u8
+CCTV9紀錄,http://173.208.234.146/live/cctv9.m3u8
+CCTV10科教,http://173.208.234.146/live/cctv10.m3u8
+CCTV11戲曲,http://173.208.234.146/live/cctv11.m3u8
+CCTV12社會與法,http://173.208.234.146/live/cctv12.m3u8
+CCTV13新聞,http://173.208.234.146/live/cctv13.m3u8
+CCTV14少兒,http://173.208.234.146/live/cctv14.m3u8
+CCTV15音樂,http://173.208.234.146/live/cctv15.m3u8
+CCTV16奧利匹克,http://173.208.234.146/live/cctv16.m3u8
+CCTV17農業農村,http://173.208.234.146/live/cctv17.m3u8
+CCTV5+體育賽事,http://173.208.234.146/live/cctv5p.m3u8
+湖南衛視,http://173.208.234.146/live/hnws.m3u8
+浙江衛視,http://173.208.234.146/live/zjws.m3u8
+江蘇衛視,http://173.208.234.146/live/jsws.m3u8
+東方衛視,http://173.208.234.146/live/dfws.m3u8
+大灣區衛視,http://173.208.234.146/live/nfws.m3u8
+CCTV5體育,http://173.208.234.146/live/cctv5.m3u8
+CCTV16奧林匹克,http://173.208.234.146/live/cctv16.m3u8
+CCTV5+體育賽事,http://173.208.234.146/live/cctv5p.m3u8
+廣東體育,http://173.208.234.146/live/gdty.m3u8
+廣東體育-grtn,http://173.208.234.146/live/gdtya.m3u8
 
 
 
@@ -950,7 +893,7 @@ inbm证券服务频道[1280*720],https://hlss.gstv.com.cn:443/se0rch/20sv46.m3u8
 
 
 
-#4G频道,#genre#
+
 今日新闻4Gtv,http://220.135.64.124:5050/nnews-zh/index.m3u8?proxy=true
 中天新闻4Gtv,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 寰宇新闻4Gtv,http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
@@ -1363,26 +1306,6 @@ CHC影迷电影,http://cdn6.bkpcp.top/tl/tuiliu.php?id=ymdy
 
 
 经典影剧,#genre#
-
-无邪私家笔记1,https://cdn.yzzy28-play.com/20250920/15913_4d6a0e7e/index.m3u8
-无邪私家笔记2,https://cdn.yzzy28-play.com/20250920/15914_a553d8b9/index.m3u8
-无邪私家笔记3,https://cdn.yzzy28-play.com/20250920/15915_61e654de/index.m3u8
-无邪私家笔记4,https://cdn.yzzy27-play.com/20250921/20156_fa29e791/index.m3u8
-无邪私家笔记5,https://cdn.yzzy28-play.com/20250921/16161_85dc7996/index.m3u8
-无邪私家笔记6,https://cdn.yzzy27-play.com/20250922/20187_6ce77713/index.m3u8
-无邪私家笔记7,https://cdn.yzzy28-play.com/20250922/16243_70ca55f3/index.m3u8
-无邪私家笔记8,https://cdn.yzzy27-play.com/20250923/20544_9af71bef/index.m3u8
-无邪私家笔记9,https://cdn.yzzy28-play.com/20250924/16412_e6089618/index.m3u8
-无邪私家笔记10,https://cdn.yzzy29-play.com/20250925/3295_d5d7f5bb/index.m3u8
-无邪私家笔记11,https://cdn.yzzy28-play.com/20250925/16540_e4cd3a63/index.m3u8
-无邪私家笔记12,https://cdn.yzzy31-play.com/20250926/211_eb163727/index.m3u8
-无邪私家笔记13,https://cdn.yzzy29-play.com/20250927/3449_86a1793f/index.m3u8
-无邪私家笔记14,https://cdn.yzzy29-play.com/20250927/3449_86a1793f/index.m3u8
-无邪私家笔记15,https://cdn.yzzy31-play.com/20250929/556_11b921ef/index.m3u8
-无邪私家笔记16,https://cdn.yzzy31-play.com/20250929/557_6e2713a6/index.m3u8
-无邪私家笔记17,https://cdn.yzzy31-play.com/20250929/558_1bb91f73/index.m3u8
-无邪私家笔记18,https://cdn.yzzy31-play.com/20250929/559_3a077244/index.m3u8
-
 聊斋第01集,https://vip1.lz-cdn8.com/20220813/21334_7a171487/1000k/hls/mixed.m3u8
 聊斋第02集,https://vip.kuaikan-cdn3.com/20231103/1bEWkWch/index.m3u8
 聊斋第03集,https://vip1.lz-cdn8.com/20220813/21336_25db3fe0/1000k/hls/mixed.m3u8
