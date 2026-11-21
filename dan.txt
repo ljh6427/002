@@ -1,89 +1,21 @@
+
 {
-    "urls": [
-        {
-            "name": "潇洒",
-            "url": "https://9877.kstore.space/sun.json"
-        },
-		
-		{
-            "name": "挺好",
-            "url": "https://ztha.top/TVBox/thdjk.json"
-        },
-		
-		{
-            "name": "小米",
-            "url": "https://gh-proxy.org/raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"
-        },
-		
-		{
-            "name": "熬乌",
-            "url": "https://9763.kstore.vip/aowu.json"
-        },
-		
-		{
-            "name": "小虎斑",
-            "url": "https://aly2.tuchuangyun.top/autoupload/3wmba/other/tv/tigers/xhb201108.json"
-        },
-		
-		{
-            "name": "宝盒",
-            "url": "https://raw.githubusercontent.com/guot55/yg/main/box原.json"
-        },
-		
-        {
-            "name": "模鱼",
-            "url": "https://6800.kstore.vip/fish.json"
-        },
-
-		
-		{
-            "name": "软件小哥哥",
-            "url": "http://47.96.82.41:5188/svip/svip.json"
-        },
-		
-		{
-            "name": "肥猫",
-            "url": "http://w.junce.dpdns.org/fm.gif"
-        },
-				
-        {
-            "name": "南风接口",
-            "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
-        },
-            
-        {
-            "name": "电视自用接口",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json"
-        },
-		
-		{
-            "name": "18caijise",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xwyjc/yuanwango/main/18caiji.json"
-        },
-
-      		
-		{
-            "name": "成人",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json"
-        },
-
-        {
-            "name": "18",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ljh6427/002/main/18.txt"
-        },
-		
-		
-		
-		{
-          "name": "王二小",
-          "url": "https://9280.kstore.vip/aiwex.json"
-        },
-		
-		
-		{
-            "name": "饭太硬接口",
-            "url": "http://www.饭太硬.cc/tv"
-        }
-		
-           ]
+  "urls": {
+    "潇洒": "https://9877.kstore.space/sun.json",
+    "挺好": "https://ztha.top/TVBox/thdjk.json",
+    "小米": "https://gh-proxy.org/raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json",
+    "熬乌": "https://9763.kstore.vip/aowu.json",
+    "小虎斑": "https://aly2.tuchuangyun.top/autoupload/3wmba/other/tv/tigers/xhb201108.json",
+    "宝盒": "https://raw.githubusercontent.com/guot55/yg/main/box原.json",
+    "模鱼": "https://6800.kstore.vip/fish.json",
+    "软件小哥哥": "http://47.96.82.41:5188/svip/svip.json",
+    "肥猫": "http://w.junce.dpdns.org/fm.gif",
+    "南风接口": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+    "电视自用接口": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+    "18caijise": "https://gh-proxy.com/https://raw.githubusercontent.com/xwyjc/yuanwango/main/18caiji.json",
+    "成人": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json",
+    "18": "https://gh-proxy.com/https://raw.githubusercontent.com/ljh6427/002/main/18.txt",
+    "王二小": "https://9280.kstore.vip/aiwex.json",
+    "饭太硬接口": "http://www.饭太硬.cc/tv"
+  }
 }
