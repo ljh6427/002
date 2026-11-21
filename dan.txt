@@ -66,14 +66,14 @@
             "name": "成人",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json"
         },
-        {
 
         {
             "name": "18",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ljh6427/002/main/18.txt"
         },
-
-        
+		
+		
+		
 		{
           "name": "王二小",
           "url": "https://9280.kstore.vip/aiwex.json"
