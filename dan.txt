@@ -61,7 +61,11 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xwyjc/yuanwango/main/18caiji.json"
         },
 
-      		
+      	{
+            "name": "18fun",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/main/fun.json"
+        },
+		
 		{
             "name": "成人",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json"
